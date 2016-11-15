@@ -1,0 +1,1138 @@
+"Analyst Combo Name","Analyst User Id","Member User Id","Member Combo Name","Group Name","Description","Request Close Date","Request Configuration Item Name","Request Group Name","Request Open Date","Request Priority Symbol","Request Number","Request Resolve Date","Request Status Symbol","Request Type Symbol","Time Stamp","Type Symbol","Request Summary"
+"Dooley, Byron J","dphdbjd","dphdbjd","Dooley, Byron J","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L2 Desktop Services VPC'
+","2016/08/12 17:12:34","VirtualTerminal","L3 VDI Infrastructure","2016/06/16 20:05:57","5","64114","2016/08/08 06:48:34","Closed","Request","2016/08/05 09:24:20","Transfer","L2 IT REQUEST CENTER - PLEASE READ LOGS - Item Needed: virtual desktop 64 bit machne with 8 GB RAM and 100GB disk drive to replace the current one"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","please provide the virtual services needed for this user.","2016/08/12 17:12:34","VirtualTerminal","L3 VDI Infrastructure","2016/06/16 20:05:57","5","64114","2016/08/08 06:48:34","Closed","Request","2016/08/05 10:09:40","Transfer","L2 IT REQUEST CENTER - PLEASE READ LOGS - Item Needed: virtual desktop 64 bit machne with 8 GB RAM and 100GB disk drive to replace the current one"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Resolved'","2016/08/12 10:33:32","","L2 IT Request Center","2016/08/04 02:57:57","5","236777","2016/08/05 10:33:32","Closed","Request","2016/08/05 10:33:32","Resolved","cancelled - duplicate of 236776.   .   .Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/12/2016 10:33:32","2016/08/12 10:33:32","","L2 IT Request Center","2016/08/04 02:57:57","5","236777","2016/08/05 10:33:32","Closed","Request","2016/08/05 10:33:32","Auto Close","cancelled - duplicate of 236776.   .   .Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","2016/08/12 10:33:32","","L2 IT Request Center","2016/08/04 02:57:57","5","236777","2016/08/05 10:33:32","Closed","Request","2016/08/05 10:33:32","Delay Service Type","cancelled - duplicate of 236776.   .   .Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery' NEW='cancelled - duplicate of 236776.   .   .Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery'
+FIELD='Resolution Method' OLD='' NEW='Cancelled'
+FIELD='Impact' OLD='' NEW='None'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","2016/08/12 10:33:32","","L2 IT Request Center","2016/08/04 02:57:57","5","236777","2016/08/05 10:33:32","Closed","Request","2016/08/05 10:33:32","Field Update","cancelled - duplicate of 236776.   .   .Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","2016/08/12 10:33:32","","L2 IT Request Center","2016/08/04 02:57:57","5","236777","2016/08/05 10:33:32","Closed","Request","2016/08/05 10:33:32","Transfer","cancelled - duplicate of 236776.   .   .Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery' NEW='Duehn, Richard (hhrkd0) - (1) E7U24UT - HP CM03XL-Notebook battery (long life) 1 x lithium polymer 3-cell 4504 mAh - for EliteBook 840'
+FIELD='Description' OLD='Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25808' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25808' target=blank>here</a> to access the request
+
+Duehn, Richard (hhrkd0)
+Items Requested: - (1) E7U24UT - HP CM03XL-Notebook battery (long life) 1 x lithium polymer 3-cell 4504 mAh - for EliteBook 840
+Cost Center: 77212
+Location: 11840 Valley View Rd Eden Prairie MN 55344  
+Approved by: Kelvin C. Brandes Dir Loss Prevention 
+Requisition #:  177101    '
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/04 02:57:56","5","236776","","Awaiting End User Response","Request","2016/08/05 11:10:09","Field Update","Duehn, Richard (hhrkd0) - (1) E7U24UT - HP CM03XL-Notebook battery (long life) 1 x lithium polymer 3-cell 4504 mAh - for EliteBook 840"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/04 02:57:56","5","236776","","Awaiting End User Response","Request","2016/08/05 11:10:09","Transfer","Duehn, Richard (hhrkd0) - (1) E7U24UT - HP CM03XL-Notebook battery (long life) 1 x lithium polymer 3-cell 4504 mAh - for EliteBook 840"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'In Progress' to 'Resolved'","2016/08/12 11:37:31","","L2 IT Request Center","2016/08/02 14:06:19","5","230409","2016/08/05 11:37:31","Closed","Request","2016/08/05 11:37:31","Resolved","Nicholas J. Garofalo - (1) H6Y75AA-AX AXIOM 4GB DDR3L-1600 LOW VOLTAGE SODIMM FOR HP, 691740-001 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Resolution Method' OLD='' NEW='Permanent Fix'
+","2016/08/12 11:37:31","","L2 IT Request Center","2016/08/02 14:06:19","5","230409","2016/08/05 11:37:31","Closed","Request","2016/08/05 11:37:31","Field Update","Nicholas J. Garofalo - (1) H6Y75AA-AX AXIOM 4GB DDR3L-1600 LOW VOLTAGE SODIMM FOR HP, 691740-001 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","2016/08/12 11:37:31","","L2 IT Request Center","2016/08/02 14:06:19","5","230409","2016/08/05 11:37:31","Closed","Request","2016/08/05 11:37:31","Delay Service Type","Nicholas J. Garofalo - (1) H6Y75AA-AX AXIOM 4GB DDR3L-1600 LOW VOLTAGE SODIMM FOR HP, 691740-001 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/12/2016 10:37:31 - Mountain Time (GMT-0700)","2016/08/12 11:37:31","","L2 IT Request Center","2016/08/02 14:06:19","5","230409","2016/08/05 11:37:31","Closed","Request","2016/08/05 11:37:31","Auto Close","Nicholas J. Garofalo - (1) H6Y75AA-AX AXIOM 4GB DDR3L-1600 LOW VOLTAGE SODIMM FOR HP, 691740-001 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","I have added the following users to the AD Group: ICA.RightFaxUtil and sent requests for 2nd tier to L3 Enterprise Application Tools. 
+","2016/08/12 12:57:04","SYSMGMT-ITCA-SVU.PROD","L3 Enterprise Application Tools","2016/08/05 04:03:33","None","240085","2016/08/05 12:57:04","Closed","Request","2016/08/05 12:09:52","Transfer","catalog# 22455"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Resolved'","2016/08/12 12:19:14","","L2 IT Request Center","2016/08/05 04:58:43","None","240169","2016/08/05 12:19:14","Closed","Request","2016/08/05 12:19:14","Resolved","Request #201999- Catalog #201701"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","2016/08/12 12:19:14","","L2 IT Request Center","2016/08/05 04:58:43","None","240169","2016/08/05 12:19:14","Closed","Request","2016/08/05 12:19:14","Delay Service Type","Request #201999- Catalog #201701"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/12/2016 12:19:14 - Central Time (GMT-0600)","2016/08/12 12:19:14","","L2 IT Request Center","2016/08/05 04:58:43","None","240169","2016/08/05 12:19:14","Closed","Request","2016/08/05 12:19:14","Auto Close","Request #201999- Catalog #201701"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Resolution Method' OLD='' NEW='Permanent Fix'
+","2016/08/12 12:19:14","","L2 IT Request Center","2016/08/05 04:58:43","None","240169","2016/08/05 12:19:14","Closed","Request","2016/08/05 12:19:14","Field Update","Request #201999- Catalog #201701"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","2016/08/12 12:19:14","","L2 IT Request Center","2016/08/05 04:58:43","None","240169","2016/08/05 12:19:14","Closed","Request","2016/08/05 12:19:14","Transfer","Request #201999- Catalog #201701"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:25480 for  I Can't Find My Security Access Item (ALB-HO): Attachmate myExtra' NEW='Hernandez, Doug (dher04p) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:25480 for  I Can't Find My Security Access Item (ALB-HO): Attachmate myExtra. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25480' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:25480 for  I Can't Find My Security Access Item (ALB-HO): Attachmate myExtra. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25480' target=blank>here</a> to access the request
+
+Hernandez, Doug (dher04p)
+Software: - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod
+
+PC: SDEVPCKEANE0213'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","2016/08/12 12:37:52","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/04 14:44:44","5","239072","2016/08/05 12:37:52","Closed","Request","2016/08/05 12:25:18","Field Update","Hernandez, Doug (dher04p) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","I have added user ARTURO RAMIREZ (aram063) to the AD Groups:
+ICA.SpacePlanning.Lead Contractors and ICADesktop
+","2016/08/12 12:19:14","","L2 IT Request Center","2016/08/05 04:58:43","None","240169","2016/08/05 12:19:14","Closed","Request","2016/08/05 12:19:22","Log Comment","Request #201999- Catalog #201701"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26042 for  Most Popular PC Software: Adobe Acrobat X Professional' NEW='Aguilar, Yedda (yagu004) - Adobe Acrobat X Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:26042 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26042' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26042 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26042' target=blank>here</a> to access the request
+
+Aguilar, Yedda (yagu004)
+Software: - Adobe Acrobat X Standard - Corp Prod
+
+PC:  SDE5CG55172N7
+
+licensing for Pro not available'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/04 14:58:39","5","239110","2016/08/11 05:12:53","Resolved","Request","2016/08/05 12:28:29","Field Update","Aguilar, Yedda (yagu004) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/04 14:58:39","5","239110","2016/08/11 05:12:53","Resolved","Request","2016/08/05 12:28:29","Transfer","Aguilar, Yedda (yagu004) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26058 for  Most Popular PC Software: Adobe Acrobat Professional 9.3.1' NEW='Sheehan, Tammy (tshe033) - Adobe Acrobat X Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:26058 for  Most Popular PC Software: Adobe Acrobat Professional 9.3.1. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26058' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26058 for  Most Popular PC Software: Adobe Acrobat Professional 9.3.1. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26058' target=blank>here</a> to access the request
+
+Sheehan, Tammy (tshe033)
+Software: - Adobe Acrobat X Standard - Corp Prod
+
+PC:  ALBMXL5081RJZ
+
+licensing for Pro not available'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","2016/08/12 12:50:33","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/04 15:45:44","5","239221","2016/08/05 12:50:33","Closed","Request","2016/08/05 12:33:16","Field Update","Sheehan, Tammy (tshe033) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","2016/08/12 12:50:33","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/04 15:45:44","5","239221","2016/08/05 12:50:33","Closed","Request","2016/08/05 12:33:16","Transfer","Sheehan, Tammy (tshe033) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","2016/08/12 12:37:52","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/04 14:44:44","5","239072","2016/08/05 12:37:52","Closed","Request","2016/08/05 12:25:18","Transfer","Hernandez, Doug (dher04p) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:16805 for  Computer Monitors: Monitor from Inventory. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=16805' target=blank>here</a> to access the request
+
+Brandt, Kathryn (kbru013)
+Item Requested: - (1) E2316H - Monitor - Dell 23in Monitor 
+Cost Center:  77167
+Location:  11840 Valley View Road, Eden Prairie, MN     vv289
+Approved by:  Sara S. Hoge Dir Assistant Gen Counsel 
+Requisition #:  176934  ' NEW='Service Catalog Request ID:16805 for  Computer Monitors: Monitor from Inventory. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=16805' target=blank>here</a> to access the request
+
+Brandt, Kathryn (kbru013)
+Item Requested: - (1) E2316H - Monitor - Dell 23in Monitor 
+Cost Center:  77167
+Location:  11840 Valley View Road, Eden Prairie, MN     vv289
+Approved by:  Sara S. Hoge Dir Assistant Gen Counsel 
+Requisition #:  176934  = PO 504236'
+","","","L2 Desktop Support VVIEW","2016/06/30 08:00:11","5","113620","2016/08/09 16:57:23","Resolved","Request","2016/08/05 15:53:26","Field Update","Brandt, Kathryn (kbru013) - (1) E2316H - Monitor - Dell 23in Monitor  -  Ordered"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26046 for  Most Popular Licensed Software approval needed: Microsoft Office Project 2010' NEW='Masone, Tony - Microsoft Project 2010 Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:26046 for  Most Popular Licensed Software approval needed: Microsoft Office Project 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26046' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26046 for  Most Popular Licensed Software approval needed: Microsoft Office Project 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26046' target=blank>here</a> to access the request
+
+Masone, Tony
+Software: - Microsoft Project 2010 Standard - Corp Prod
+
+PC: ALB5CG6092WH9'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/05 01:18:35","5","239857","2016/08/11 05:15:48","Resolved","Request","2016/08/05 12:38:58","Field Update","Masone, Tony - Microsoft Project 2010 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/05 01:18:35","5","239857","2016/08/11 05:15:48","Resolved","Request","2016/08/05 12:38:58","Transfer","Masone, Tony - Microsoft Project 2010 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26237 for  Licensed Software - Approval needed: Microsoft Office Project 2010' NEW='Baskaran, Thulasiram (tbas00u) - Microsoft Project 2010 Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:26237 for  Licensed Software - Approval needed: Microsoft Office Project 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26237' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26237 for  Licensed Software - Approval needed: Microsoft Office Project 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26237' target=blank>here</a> to access the request
+
+Baskaran, Thulasiram (tbas00u)
+Software: - Microsoft Project 2010 Standard - Corp Prod
+
+PC: SDECNU2321B6Z'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/05 10:35:31","5","241630","2016/08/11 05:27:39","Resolved","Request","2016/08/05 12:49:41","Field Update","Baskaran, Thulasiram (tbas00u) - Microsoft Project 2010 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/05 10:35:31","5","241630","2016/08/11 05:27:39","Resolved","Request","2016/08/05 12:49:41","Transfer","Baskaran, Thulasiram (tbas00u) - Microsoft Project 2010 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26237 for  Licensed Software - Approval needed: Visio 2013 Professional' NEW='Baskaran, Thulasiram (tbas00u) - Microsoft Visio 2013 Professional - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:26237 for  Licensed Software - Approval needed: Visio 2013 Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26237' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26237 for  Licensed Software - Approval needed: Visio 2013 Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26237' target=blank>here</a> to access the request
+
+Baskaran, Thulasiram (tbas00u)
+Software: - Microsoft Visio 2013 Professional - Corp Prod
+
+PC: SDECNU2321B6Z'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/05 10:35:26","5","241629","2016/08/11 05:24:04","Resolved","Request","2016/08/05 12:55:50","Field Update","Baskaran, Thulasiram (tbas00u) - Microsoft Visio 2013 Professional - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/05 10:35:26","5","241629","2016/08/11 05:24:04","Resolved","Request","2016/08/05 12:55:50","Transfer","Baskaran, Thulasiram (tbas00u) - Microsoft Visio 2013 Professional - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26041 for  New Hire On Boarding Nicole Dowdell: New Hire Laptop - Mobile User' NEW='New Hire On Boarding Nicole Dowdell: New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:26041 for  New Hire On Boarding Nicole Dowdell: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26041' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26041 for  New Hire On Boarding Nicole Dowdell: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26041' target=blank>here</a> to access the request
+
+Nicole Dowdell
+Items requested:  New Hire Laptop - Mobile User
+Location:  Valley View    
+Date Required: 8/15/2016
+Start Date: 8/15/2016'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/04 14:59:42","5","239117","2016/08/15 09:39:54","Resolved","Request","2016/08/05 13:19:03","Field Update","New Hire On Boarding Nicole Dowdell: New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/04 14:59:42","5","239117","2016/08/15 09:39:54","Resolved","Request","2016/08/05 13:19:03","Transfer","New Hire On Boarding Nicole Dowdell: New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26228 for  New Hire On Boarding: New Hire Laptop - Mobile User' NEW='New Hire On Boarding:Jampana, Sreenivasaraju (sjam01o) - New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:26228 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26228' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26228 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26228' target=blank>here</a> to access the request
+
+Jampana, Sreenivasaraju (sjam01o)
+Items requested:  New Hire Laptop - Mobile User
+Location:  Valley View    
+Date Required: 8/22/2016
+Start Date: 8/21/2016
+Note: Sreeni is currently a contractor network ID is SJAM00I. He is becoming an employee and will be relocating from Boise to Eden Prairie'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 10:17:46","5","241593","","Open","Request","2016/08/05 13:31:35","Field Update","New Hire On Boarding:Jampana, Sreenivasaraju (sjam01o) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 10:17:46","5","241593","","Open","Request","2016/08/05 13:31:35","Transfer","New Hire On Boarding:Jampana, Sreenivasaraju (sjam01o) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26182 for  Angela Goodman Onboarding: New Hire Laptop - Mobile User' NEW='Angela Goodman Onboarding: New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:26182 for  Angela Goodman Onboarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26182' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26182 for  Angela Goodman Onboarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26182' target=blank>here</a> to access the request
+
+Goodman, Angela (agoo01u)
+Items requested:  New Hire Laptop - Mobile User
+Location:  Valley View    
+Date Required: 8/12/2016
+Start Date: 8/21/2016
+Note: deliver to Afternoon NEO session 8/22'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 08:40:56","5","241164","","Rejected","Request","2016/08/05 13:21:18","Field Update","Angela Goodman Onboarding: New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 08:40:56","5","241164","","Rejected","Request","2016/08/05 13:21:18","Transfer","Angela Goodman Onboarding: New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26214 for  laptop for Joyshri Barman: New Hire Laptop - Mobile User' NEW='laptop for Joyshri Barman: New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:26214 for  laptop for Joyshri Barman: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26214' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26214 for  laptop for Joyshri Barman: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26214' target=blank>here</a> to access the request
+
+Barman, Joyshri (jbar098)
+Items requested:  New Hire Laptop - Mobile User
+Location:  Valley View    
+Date Required: 8/5/2016
+Start Date: 8/5/2016
+Note: contractor moving onshore'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='3-Quickly'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 09:34:24","5","241400","2016/08/10 13:20:31","Resolved","Request","2016/08/05 13:27:27","Field Update","laptop for Joyshri Barman: New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 09:34:24","5","241400","2016/08/10 13:20:31","Resolved","Request","2016/08/05 13:27:27","Transfer","laptop for Joyshri Barman: New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26262 for  New Hire On Boarding: New Hire Laptop - Mobile User' NEW='New Hire On Boarding:Scott Synstegaard - New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:26262 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26262' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26262 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26262' target=blank>here</a> to access the request
+
+Scott Synstegaard
+Items requested: New Hire Laptop - Mobile User
+Location: Mitchell Center
+Date Required: 
+Start Date: 8/14/2016'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='4-Soon'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 11:01:43","5","241698","2016/08/15 15:58:12","Resolved","Request","2016/08/05 13:43:30","Field Update","New Hire On Boarding:Scott Synstegaard - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 11:01:43","5","241698","2016/08/15 15:58:12","Resolved","Request","2016/08/05 13:43:30","Transfer","New Hire On Boarding:Scott Synstegaard - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26306 for  New Hire On Boarding: New Hire Laptop - Mobile User' NEW='New Hire On Boarding:Mccormack, Kelley (kmcc05r) - New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:26306 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26306' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26306 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26306' target=blank>here</a> to access the request
+
+Mccormack, Kelley (kmcc05r)
+Items requested:  New Hire Laptop - Mobile User
+Location:  Valley View    
+Date Required: 8/24/2016
+Start Date: 8/29/2016'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 13:00:06","5","242031","","Open","Request","2016/08/05 13:47:39","Field Update","New Hire On Boarding:Mccormack, Kelley (kmcc05r) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/05 13:00:06","5","242031","","Open","Request","2016/08/05 13:47:39","Transfer","New Hire On Boarding:Mccormack, Kelley (kmcc05r) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Resolved'","2016/08/12 14:19:19","","L2 IT Request Center","2016/08/04 09:57:45","5","237764","2016/08/05 14:19:19","Closed","Request","2016/08/05 14:19:19","Resolved","cancelled duplicate. see request # 237763. . . Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/12/2016 13:19:19 - Mountain Time (GMT-0700)","2016/08/12 14:19:19","","L2 IT Request Center","2016/08/04 09:57:45","5","237764","2016/08/05 14:19:19","Closed","Request","2016/08/05 14:19:19","Auto Close","cancelled duplicate. see request # 237763. . . Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","2016/08/12 14:19:19","","L2 IT Request Center","2016/08/04 09:57:45","5","237764","2016/08/05 14:19:19","Closed","Request","2016/08/05 14:19:19","Delay Service Type","cancelled duplicate. see request # 237763. . . Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse' NEW='cancelled duplicate. see request # 237763. . . Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse'
+FIELD='Resolution Method' OLD='' NEW='Cancelled'
+FIELD='Impact' OLD='' NEW='None'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","2016/08/12 14:19:19","","L2 IT Request Center","2016/08/04 09:57:45","5","237764","2016/08/05 14:19:19","Closed","Request","2016/08/05 14:19:19","Field Update","cancelled duplicate. see request # 237763. . . Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","2016/08/12 14:19:19","","L2 IT Request Center","2016/08/04 09:57:45","5","237764","2016/08/05 14:19:19","Closed","Request","2016/08/05 14:19:19","Transfer","cancelled duplicate. see request # 237763. . . Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'In Progress'","","","L2 IT Request Center","2016/08/04 09:57:42","5","237763","2016/08/12 14:00:58","Resolved","Request","2016/08/05 14:28:11","Update Status","Gallegos, Erik (goscejg) - (2) Logitech B100- Mouse- optical- 3 buttons- wired- USB- PART#: 910-001439"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse' NEW='Gallegos, Erik (goscejg) - (2) Logitech B100- Mouse- optical- 3 buttons- wired- USB- PART#: 910-001439'
+FIELD='Description' OLD='Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20147' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20147' target=blank>here</a> to access the request
+
+Gallegos, Erik (goscejg)
+Item Requested: - (2) Logitech B100- Mouse- optical- 3 buttons- wired- USB- PART#: 910-001439
+Cost Center:  70435
+Location: West Park  - 700 W Ancestor
+Approved by:  Michael L. Royce Mgr Security Technology 
+Requisition #:   177108  '
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 IT Request Center","2016/08/04 09:57:42","5","237763","2016/08/12 14:00:58","Resolved","Request","2016/08/05 14:28:11","Field Update","Gallegos, Erik (goscejg) - (2) Logitech B100- Mouse- optical- 3 buttons- wired- USB- PART#: 910-001439"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","L2 IT Request Center","2016/08/04 09:57:42","5","237763","2016/08/12 14:00:58","Resolved","Request","2016/08/05 14:28:11","Transfer","Gallegos, Erik (goscejg) - (2) Logitech B100- Mouse- optical- 3 buttons- wired- USB- PART#: 910-001439"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","I have added the user Sprayberry, Clinton (cspr013) to the below groups:
+ICA.SupplyChain.PrinterCounts 
+ICA.Telecommuting 
+ICADesktop ","2016/08/12 14:50:24","","L2 IT Request Center","2016/08/05 14:18:25","5","242334","2016/08/05 14:50:24","Closed","Request","2016/08/05 14:50:34","Log Comment","Catalog Request #22809 CO#196806"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:25593 for  Unlisted Hardware: Unlisted PC Item' NEW='Schott, Kathleen (w2kase) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set'
+FIELD='Description' OLD='Service Catalog Request ID:25593 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25593' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:25593 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25593' target=blank>here</a> to access the request
+
+Schott, Kathleen (w2kase)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center:  49274
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Matthew J. Mclain Mgr Retail Str Support- SAL 
+Requisition #:  177110 '
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support SAL ","2016/08/04 11:37:52","5","238511","2016/08/11 08:32:55","Resolved","Request","2016/08/05 14:45:39","Field Update","Schott, Kathleen (w2kase) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L2 Desktop Support SAL'
+","","","L2 Desktop Support SAL ","2016/08/04 11:37:52","5","238511","2016/08/11 08:32:55","Resolved","Request","2016/08/05 14:45:39","Transfer","Schott, Kathleen (w2kase) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Resolved'","2016/08/12 14:50:24","","L2 IT Request Center","2016/08/05 14:18:25","5","242334","2016/08/05 14:50:24","Closed","Request","2016/08/05 14:50:24","Resolved","Catalog Request #22809 CO#196806"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","2016/08/12 14:50:24","","L2 IT Request Center","2016/08/05 14:18:25","5","242334","2016/08/05 14:50:24","Closed","Request","2016/08/05 14:50:24","Delay Service Type","Catalog Request #22809 CO#196806"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Resolution Method' OLD='' NEW='Permanent Fix'
+","2016/08/12 14:50:24","","L2 IT Request Center","2016/08/05 14:18:25","5","242334","2016/08/05 14:50:24","Closed","Request","2016/08/05 14:50:24","Field Update","Catalog Request #22809 CO#196806"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/12/2016 14:50:24 - Central Time (GMT-0600)","2016/08/12 14:50:24","","L2 IT Request Center","2016/08/05 14:18:25","5","242334","2016/08/05 14:50:24","Closed","Request","2016/08/05 14:50:24","Auto Close","Catalog Request #22809 CO#196806"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","2016/08/12 14:50:24","","L2 IT Request Center","2016/08/05 14:18:25","5","242334","2016/08/05 14:50:24","Closed","Request","2016/08/05 14:50:24","Transfer","Catalog Request #22809 CO#196806"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:25585 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25585' target=blank>here</a> to access the request
+
+Laakko, Elizabeth (elaa001)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center: 49455
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Elizabeth G. Laakko Dir Brand Strategy - SAL 
+Requisition #: 177096  ' NEW='Service Catalog Request ID:25585 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25585' target=blank>here</a> to access the request
+
+Laakko, Elizabeth (elaa001)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center: 49455
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Elizabeth G. Laakko Dir Brand Strategy - SAL 
+Requisition #: 177096  = PO 504894'
+","2016/08/16 09:36:36","","L2 Desktop Support SAL ","2016/08/03 15:31:05","5","235007","2016/08/09 09:36:35","Closed","Request","2016/08/05 15:45:00","Field Update","Laakko, Elizabeth (elaa001) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:25588 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25588' target=blank>here</a> to access the request
+
+Gale, Larry (lgal00t)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center: 49210.55571.0000.237.0000.0000.000
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Thomas E. Brinkman Mgr Technical Services Sr 
+Requisition #: 177089  ' NEW='Service Catalog Request ID:25588 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25588' target=blank>here</a> to access the request
+
+Gale, Larry (lgal00t)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center: 49210.55571.0000.237.0000.0000.000
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Thomas E. Brinkman Mgr Technical Services Sr 
+Requisition #: 177089  = PO 504886'
+","","","L2 Desktop Support SAL ","2016/08/03 11:34:24","5","233428","2016/08/15 10:07:38","Resolved","Request","2016/08/05 15:45:58","Field Update","Gale, Larry (lgal00t) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:25507 for  Laptop and Notebook Batteries: Laptop Battery. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25507' target=blank>here</a> to access the request
+
+Dahl, Sara (Z3SBD0)
+Item Requested: - (1) QK642AA-AX - LI-ION 6CELL BATTERY FOR HP ELITEBOOK & PROBOOK SERIES
+Cost Center:  77061
+Location:  11840 Valley View Dr., Eden Prairie, MN  55344
+Approved by: Dave E. Schmidt Category Director II 
+Requisition #:   177088  ' NEW='Service Catalog Request ID:25507 for  Laptop and Notebook Batteries: Laptop Battery. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25507' target=blank>here</a> to access the request
+
+Dahl, Sara (Z3SBD0)
+Item Requested: - (1) QK642AA-AX - LI-ION 6CELL BATTERY FOR HP ELITEBOOK & PROBOOK SERIES
+Cost Center:  77061
+Location:  11840 Valley View Dr., Eden Prairie, MN  55344
+Approved by: Dave E. Schmidt Category Director II 
+Requisition #:   177088  = PO 504884'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/03 11:00:34","5","233035","2016/08/11 16:22:25","Resolved","Request","2016/08/05 15:47:26","Field Update","Dahl, Sara (Z3SBD0) - (1) QK642AA-AX - LI-ION 6CELL BATTERY FOR HP ELITEBOOK & PROBOOK SERIES"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:23953 for  Privacy Screens: Microsoft Natural Elite - keyboard (Ergonomical Keyboard). Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=23953' target=blank>here</a> to access the request
+
+Jones, Beth (bjon036)
+Item Requested: - (1) B2M-00012 Microsoft Natural Ergonomic Keyboard 4000 - Keyboard
+Cost Center:  75816
+Location: 11840 Valley View Rd Eden Prairie MN 55344 
+Approved by:  Karen G. Mallinger Program Manager - TS Security 
+Requisition #:  177087 = ' NEW='Service Catalog Request ID:23953 for  Privacy Screens: Microsoft Natural Elite - keyboard (Ergonomical Keyboard). Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=23953' target=blank>here</a> to access the request
+
+Jones, Beth (bjon036)
+Item Requested: - (1) B2M-00012 Microsoft Natural Ergonomic Keyboard 4000 - Keyboard
+Cost Center:  75816
+Location: 11840 Valley View Rd Eden Prairie MN 55344 
+Approved by:  Karen G. Mallinger Program Manager - TS Security 
+Requisition #:  177087 = PO 504883'
+","","","L2 Desktop Support MCENTER Walk-up","2016/08/03 02:01:05","5","231600","","In Progress","Request","2016/08/05 15:49:14","Field Update","Jones, Beth (bjon036) - (1) B2M-00012 Microsoft Natural Ergonomic Keyboard 4000 - Keyboard"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:23953 for  Privacy Screens: Laptop Privacy Screen Filter. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=23953' target=blank>here</a> to access the request
+
+Jones, Beth (bjon036)
+Item Requested: - (1) 3M PF14.0W9 Privacy Filter for Widescreen Laptop 14.0"" 
+Cost Center:  75816
+Location: 11840 Valley View Rd Eden Prairie MN 55344 
+Approved by:  Karen G. Mallinger Program Manager - TS Security 
+Requisition #:  177085 = ' NEW='Service Catalog Request ID:23953 for  Privacy Screens: Laptop Privacy Screen Filter. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=23953' target=blank>here</a> to access the request
+
+Jones, Beth (bjon036)
+Item Requested: - (1) 3M PF14.0W9 Privacy Filter for Widescreen Laptop 14.0"" 
+Cost Center:  75816
+Location: 11840 Valley View Rd Eden Prairie MN 55344 
+Approved by:  Karen G. Mallinger Program Manager - TS Security 
+Requisition #:  177085 = PO 504881'
+","","","L2 Desktop Support MCENTER Walk-up","2016/08/03 02:01:03","5","231599","","In Progress","Request","2016/08/05 15:50:07","Field Update","Jones, Beth (bjon036) - (1) 3M PF14.0W9 Privacy Filter for Widescreen Laptop 14.0"" "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/12/2016 17:00:00 - Eastern Time (GMT-0500)","2016/08/12 16:02:28","","L2 IT Request Center","2016/08/05 16:08:32","5","242642","2016/08/05 16:18:42","Closed","Request","2016/08/05 16:18:42","Auto Close","Catalog Request #23793 CO#205042"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","2016/08/12 16:02:28","","L2 IT Request Center","2016/08/05 16:08:32","5","242642","2016/08/05 16:18:42","Closed","Request","2016/08/05 16:18:42","Transfer","Catalog Request #23793 CO#205042"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","I have added the user Burley, Ellison (z9emb0) to the group ICA.SpacePlanning.SA","2016/08/12 16:02:28","","L2 IT Request Center","2016/08/05 16:08:32","5","242642","2016/08/05 16:18:42","Closed","Request","2016/08/05 16:18:47","Log Comment","Catalog Request #23793 CO#205042"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:24210 for  Mainframe-EP SAR Reporting (ALB-DC): Attachmate Extra' NEW='Sampson, Sandra - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:24210 for  Mainframe-EP SAR Reporting (ALB-DC): Attachmate Extra. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=24210' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:24210 for  Mainframe-EP SAR Reporting (ALB-DC): Attachmate Extra. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=24210' target=blank>here</a> to access the request
+
+Sampson, Sandra
+Software: - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod
+
+PC: OSCMXL4260QD'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/05 16:04:28","5","242664","2016/08/15 03:18:44","Resolved","Request","2016/08/05 16:22:19","Field Update","Sampson, Sandra - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/05 16:04:28","5","242664","2016/08/15 03:18:44","Resolved","Request","2016/08/05 16:22:19","Transfer","Sampson, Sandra - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Resolved'","2016/08/12 16:02:28","","L2 IT Request Center","2016/08/05 16:08:32","5","242642","2016/08/05 16:18:42","Closed","Request","2016/08/05 16:18:42","Resolved","Catalog Request #23793 CO#205042"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","2016/08/12 16:02:28","","L2 IT Request Center","2016/08/05 16:08:32","5","242642","2016/08/05 16:18:42","Closed","Request","2016/08/05 16:18:42","Delay Service Type","Catalog Request #23793 CO#205042"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Resolution Method' OLD='' NEW='Permanent Fix'
+","2016/08/12 16:02:28","","L2 IT Request Center","2016/08/05 16:08:32","5","242642","2016/08/05 16:18:42","Closed","Request","2016/08/05 16:18:42","Field Update","Catalog Request #23793 CO#205042"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Resolved'","2016/08/15 09:32:23","","L2 IT Request Center","2016/08/08 05:58:44","None","248600","2016/08/08 09:32:23","Closed","Request","2016/08/08 09:32:23","Resolved","Regarding catalog# 25110"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Resolution Method' OLD='' NEW='Permanent Fix'
+","2016/08/15 09:32:23","","L2 IT Request Center","2016/08/08 05:58:44","None","248600","2016/08/08 09:32:23","Closed","Request","2016/08/08 09:32:23","Field Update","Regarding catalog# 25110"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/15/2016 09:32:23","2016/08/15 09:32:23","","L2 IT Request Center","2016/08/08 05:58:44","None","248600","2016/08/08 09:32:23","Closed","Request","2016/08/08 09:32:23","Auto Close","Regarding catalog# 25110"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","2016/08/15 09:32:23","","L2 IT Request Center","2016/08/08 05:58:44","None","248600","2016/08/08 09:32:23","Closed","Request","2016/08/08 09:32:23","Delay Service Type","Regarding catalog# 25110"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","2016/08/15 09:32:23","","L2 IT Request Center","2016/08/08 05:58:44","None","248600","2016/08/08 09:32:23","Closed","Request","2016/08/08 09:32:23","Transfer","Regarding catalog# 25110"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","I have added user Valarpuram, Hemanandhan (hval00b) to the group ICAPeopleSoft. ","2016/08/15 09:32:23","","L2 IT Request Center","2016/08/08 05:58:44","None","248600","2016/08/08 09:32:23","Closed","Request","2016/08/08 09:32:30","Log Comment","Regarding catalog# 25110"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26396 for  Most Popular PC Software: Adobe Acrobat X Professional' NEW='Pirie, Elizabeth (epir001) - Adobe Acrobat X Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:26396 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26396' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26396 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26396' target=blank>here</a> to access the request
+
+Pirie, Elizabeth (epir001)
+Software: - Adobe Acrobat X Standard - Corp Prod
+
+PC:  SDWMXL6091MPW
+
+licensing for Pro not available'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/05 17:54:33","5","242876","2016/08/11 09:09:36","Resolved","Request","2016/08/08 09:40:31","Field Update","Pirie, Elizabeth (epir001) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/05 17:54:33","5","242876","2016/08/11 09:09:36","Resolved","Request","2016/08/08 09:40:31","Transfer","Pirie, Elizabeth (epir001) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26391 for  Tableau software: Tableau Development Software' NEW='Birkholz, Beau (bbir00d) - Tableau Desktop 9.0.2 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:26391 for  Tableau software: Tableau Development Software. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26391' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26391 for  Tableau software: Tableau Development Software. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26391' target=blank>here</a> to access the request
+
+Birkholz, Beau (bbir00d)
+Software: - Tableau Desktop 9.0.2 - Corp Prod
+
+PC: SDECNQ5P72'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/08 02:00:37","5","248227","2016/08/11 09:11:58","Resolved","Request","2016/08/08 09:44:40","Field Update","Birkholz, Beau (bbir00d) - Tableau Desktop 9.0.2 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/08 02:00:37","5","248227","2016/08/11 09:11:58","Resolved","Request","2016/08/08 09:44:40","Transfer","Birkholz, Beau (bbir00d) - Tableau Desktop 9.0.2 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:25596 for  Unlisted Hardware: Unlisted PC Item' NEW='Haws, Kerri (w2klh0) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set'
+FIELD='Description' OLD='Service Catalog Request ID:25596 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25596' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:25596 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25596' target=blank>here</a> to access the request
+
+Haws, Kerri (w2klh0)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center:  49251.55571.0000.221.0000.0000.000
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Ryan S. Hartzog Category Director- SAL 
+Requisition #:   177128  '
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support SAL ","2016/08/08 09:27:07","5","249210","2016/08/11 08:32:21","Resolved","Request","2016/08/08 10:00:52","Field Update","Haws, Kerri (w2klh0) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L2 Desktop Support SAL'
+","","","L2 Desktop Support SAL ","2016/08/08 09:27:07","5","249210","2016/08/11 08:32:21","Resolved","Request","2016/08/08 10:00:52","Transfer","Haws, Kerri (w2klh0) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26278 for  Adobe Software: Adobe Creative suite' NEW='Lyonfields, Aja (alyo00h) - Adobe CS 5.5 Design Premium - Corp Prod '
+FIELD='Description' OLD='Service Catalog Request ID:26278 for  Adobe Software: Adobe Creative suite. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26278' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26278 for  Adobe Software: Adobe Creative suite. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26278' target=blank>here</a> to access the request
+
+Lyonfields, Aja (alyo00h)
+Software: - Adobe CS 5.5 Design Premium - Corp Prod
+
+PC: D25M6ORTF8J9'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/08 10:17:18","5","249416","2016/08/09 14:04:30","Resolved","Request","2016/08/08 10:41:20","Field Update","Lyonfields, Aja (alyo00h) - Adobe CS 5.5 Design Premium - Corp Prod "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/08 10:17:18","5","249416","2016/08/09 14:04:30","Resolved","Request","2016/08/08 10:41:20","Transfer","Lyonfields, Aja (alyo00h) - Adobe CS 5.5 Design Premium - Corp Prod "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26766 for  Most Popular PC Software: Google Chrome' NEW='Kapetanovic, Adam (akap00a) - Google Chrome 46.0.2490.71 - Corp Prod  '
+FIELD='Description' OLD='Service Catalog Request ID:26766 for  Most Popular PC Software: Google Chrome. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26766' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26766 for  Most Popular PC Software: Google Chrome. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26766' target=blank>here</a> to access the request
+
+Kapetanovic, Adam (akap00a)
+Software: - Google Chrome 46.0.2490.71 - Corp Prod  
+
+PC: ALB5CG51527LM'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","2016/08/16 09:36:05","","L3 Production Control Windows","2016/08/08 10:14:16","5","249408","2016/08/09 09:36:04","Closed","Request","2016/08/08 10:35:29","Field Update","Kapetanovic, Adam (akap00a) - Google Chrome 46.0.2490.71 - Corp Prod  "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","2016/08/16 09:36:05","","L3 Production Control Windows","2016/08/08 10:14:16","5","249408","2016/08/09 09:36:04","Closed","Request","2016/08/08 10:35:29","Transfer","Kapetanovic, Adam (akap00a) - Google Chrome 46.0.2490.71 - Corp Prod  "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26327 for  I Can't Find My Security Access Item (ALB-HO): Laptop from current stock' NEW='Duran, Wendy (wdur003): Laptop from current stock'
+FIELD='Description' OLD='Service Catalog Request ID:26327 for  I Can't Find My Security Access Item (ALB-HO): Laptop from current stock. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26327' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26327 for  I Can't Find My Security Access Item (ALB-HO): Laptop from current stock. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26327' target=blank>here</a> to access the request
+
+Duran, Wendy (wdur003)
+Items Requested: Laptop from current stock
+Location: 250 ParkCenter Blvd Boise, ID 83706  
+Date Required: 08/12/2016 '
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Services LLC-Desktop Support","2016/08/08 10:14:44","5","249410","","Open","Request","2016/08/08 10:48:26","Field Update","Duran, Wendy (wdur003): Laptop from current stock"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L2 Desktop Services Boise SSC'
+","","","L2 Desktop Services LLC-Desktop Support","2016/08/08 10:14:44","5","249410","","Open","Request","2016/08/08 10:48:26","Transfer","Duran, Wendy (wdur003): Laptop from current stock"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:25688 for  Computer Monitors: Monitor Special order. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25688' target=blank>here</a> to access the request
+
+Knight, Danielle (dkni00q)
+Item Requested: - (2) E2316H - Monitor - Dell 23in Monitor 
+Cost Center:  81017
+Location:  250 parkecenter Blvd., Boise    2S10C04
+Approved by:  Stephen M. Miller Dir Tax Sr. 
+Requisition #:   152999  ' NEW='Service Catalog Request ID:25688 for  Computer Monitors: Monitor Special order. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25688' target=blank>here</a> to access the request
+
+Knight, Danielle (dkni00q)
+Item Requested: - (2) E2316H - Monitor - Dell 23in Monitor 
+Cost Center:  81017
+Location:  250 parkecenter Blvd., Boise    2S10C04
+Approved by:  Stephen M. Miller Dir Tax Sr. 
+Requisition #:   152999  = PO 631955'
+","","","L2 IT Request Center","2016/08/03 14:45:00","5","234824","","In Progress","Request","2016/08/08 11:16:49","Field Update","Knight, Danielle (dkni00q) - (2) E2316H - Monitor - Dell 23in Monitor "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:25596 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25596' target=blank>here</a> to access the request
+
+Haws, Kerri (w2klh0)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center:  49251.55571.0000.221.0000.0000.000
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Ryan S. Hartzog Category Director- SAL 
+Requisition #:   177128  ' NEW='Service Catalog Request ID:25596 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25596' target=blank>here</a> to access the request
+
+Haws, Kerri (w2klh0)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center:  49251.55571.0000.221.0000.0000.000
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Ryan S. Hartzog Category Director- SAL 
+Requisition #:   177128 = PO 505042'
+","","","L2 Desktop Support SAL ","2016/08/08 09:27:07","5","249210","2016/08/11 08:32:21","Resolved","Request","2016/08/08 11:19:17","Field Update","Haws, Kerri (w2klh0) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20147' target=blank>here</a> to access the request
+
+Gallegos, Erik (goscejg)
+Item Requested: - (2) Logitech B100- Mouse- optical- 3 buttons- wired- USB- PART#: 910-001439
+Cost Center:  70435
+Location: West Park  - 700 W Ancestor
+Approved by:  Michael L. Royce Mgr Security Technology 
+Requisition #:   177108  ' NEW='Service Catalog Request ID:20147 for  Keyboards and Mice: Standard Mouse. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20147' target=blank>here</a> to access the request
+
+Gallegos, Erik (goscejg)
+Item Requested: - (2) Logitech B100- Mouse- optical- 3 buttons- wired- USB- PART#: 910-001439
+Cost Center:  70435
+Location: West Park  - 700 W Ancestor
+Approved by:  Michael L. Royce Mgr Security Technology 
+Requisition #:   177108  = PO 504988'
+","","","L2 IT Request Center","2016/08/04 09:57:42","5","237763","2016/08/12 14:00:58","Resolved","Request","2016/08/08 12:00:29","Field Update","Gallegos, Erik (goscejg) - (2) Logitech B100- Mouse- optical- 3 buttons- wired- USB- PART#: 910-001439"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:25593 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25593' target=blank>here</a> to access the request
+
+Schott, Kathleen (w2kase)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center:  49274
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Matthew J. Mclain Mgr Retail Str Support- SAL 
+Requisition #:  177110 ' NEW='Service Catalog Request ID:25593 for  Unlisted Hardware: Unlisted PC Item. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25593' target=blank>here</a> to access the request
+
+Schott, Kathleen (w2kase)
+Items requested: (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set
+Cost Center:  49274
+Location:  Save-A-Lot 100 Corporate Office Drive, Earth City MO 63045 ATTN: Mark Karr
+Approved by:  Matthew J. Mclain Mgr Retail Str Support- SAL 
+Requisition #:  177110 = PO 504989'
+","","","L2 Desktop Support SAL ","2016/08/04 11:37:52","5","238511","2016/08/11 08:32:55","Resolved","Request","2016/08/08 12:01:44","Field Update","Schott, Kathleen (w2kase) - (1) Dell E-Port Replicator - 130 Watt - for Latitude | MFG PART #: 331-6307, (1) H3C53AA#ABA - HP Keyboard & Mouse set"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25808' target=blank>here</a> to access the request
+
+Duehn, Richard (hhrkd0)
+Items Requested: - (1) E7U24UT - HP CM03XL-Notebook battery (long life) 1 x lithium polymer 3-cell 4504 mAh - for EliteBook 840
+Cost Center: 77212
+Location: 11840 Valley View Rd Eden Prairie MN 55344  
+Approved by: Kelvin C. Brandes Dir Loss Prevention 
+Requisition #:  177101    ' NEW='Service Catalog Request ID:25808 for  Replacement request for #21847-Laptop and Notebook Batteries: Laptop Battery. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25808' target=blank>here</a> to access the request
+
+Duehn, Richard (hhrkd0)
+Items Requested: - (1) E7U24UT - HP CM03XL-Notebook battery (long life) 1 x lithium polymer 3-cell 4504 mAh - for EliteBook 840
+Cost Center: 77212
+Location: 11840 Valley View Rd Eden Prairie MN 55344  
+Approved by: Kelvin C. Brandes Dir Loss Prevention 
+Requisition #:  177101  = PO 504987'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/04 02:57:56","5","236776","","Awaiting End User Response","Request","2016/08/08 12:03:29","Field Update","Duehn, Richard (hhrkd0) - (1) E7U24UT - HP CM03XL-Notebook battery (long life) 1 x lithium polymer 3-cell 4504 mAh - for EliteBook 840"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27284 for  Most Popular Licensed Software approval needed: Microsoft Office Project 2010' NEW='Blaha, Jennifer (jbla061) - Microsoft Project 2010 Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27284 for  Most Popular Licensed Software approval needed: Microsoft Office Project 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27284' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27284 for  Most Popular Licensed Software approval needed: Microsoft Office Project 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27284' target=blank>here</a> to access the request
+
+Blaha, Jennifer (jbla061)
+Software: - Microsoft Project 2010 Standard - Corp Prod
+
+PC: SDE5CG55131V6'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/09 15:45:41","5","253560","2016/08/09 18:17:19","Resolved","Request","2016/08/09 17:43:56","Field Update","Blaha, Jennifer (jbla061) - Microsoft Project 2010 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/09 15:45:41","5","253560","2016/08/09 18:17:19","Resolved","Request","2016/08/09 17:43:56","Transfer","Blaha, Jennifer (jbla061) - Microsoft Project 2010 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26440 for  Most Popular Licensed Software approval needed: Microsoft Office Visio Standard 2010' NEW='Ramey, Sharon (sram031) - Microsoft Visio 2010 Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:26440 for  Most Popular Licensed Software approval needed: Microsoft Office Visio Standard 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26440' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26440 for  Most Popular Licensed Software approval needed: Microsoft Office Visio Standard 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26440' target=blank>here</a> to access the request
+
+Ramey, Sharon (sram031)
+Software: - Microsoft Visio 2010 Standard - Corp Prod
+
+PC: SDE5CG55172FH'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/08 15:55:20","5","250619","2016/08/09 16:30:59","Resolved","Request","2016/08/09 11:45:27","Field Update","Ramey, Sharon (sram031) - Microsoft Visio 2010 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/08 15:55:20","5","250619","2016/08/09 16:30:59","Resolved","Request","2016/08/09 11:45:28","Transfer","Ramey, Sharon (sram031) - Microsoft Visio 2010 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26980 for  Licensed Software - Approval needed: JDA Intactix' NEW='MELISSA SWEENEY (mswe00z) - Multiple Software items:   PC: SDECNU312B9L0'
+FIELD='Description' OLD='Service Catalog Request ID:26980 for  Licensed Software - Approval needed: JDA Intactix. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26980' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26980 for  Licensed Software - Approval needed: JDA Intactix. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26980' target=blank>here</a> to access the request
+
+MELISSA SWEENEY (mswe00z) - Multiple Software items: 
+JDA Intactix 8.1.1 32-Bit - Corp Prod -Install Space Planning -Normal
+JDA Intactix 8.1.1 32-Bit - Corp Prod -Install Floor Planning -Normal
+JDA Intactix 7.8.1 OCX Add-On 3.0 - Corp Prod - OCX Add-On 3.0 – Install
+
+PC: SDECNU312B9L0'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/08 16:31:24","5","250702","2016/08/09 17:51:22","Resolved","Request","2016/08/09 11:53:00","Field Update","MELISSA SWEENEY (mswe00z) - Multiple Software items:   PC: SDECNU312B9L0"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/08 16:31:24","5","250702","2016/08/09 17:51:22","Resolved","Request","2016/08/09 11:53:00","Transfer","MELISSA SWEENEY (mswe00z) - Multiple Software items:   PC: SDECNU312B9L0"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:20369 for  I Can't Find My Security Access Item (SVU-HO): Cognos Impromptu User 7.0 - Win 7 - Corp Prod' NEW='Mohammad, Yahiya Khan (ymoh001) - Cognos Impromptu User 7.0 - Win 7 Fix - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:20369 for  I Can't Find My Security Access Item (SVU-HO): Cognos Impromptu User 7.0 - Win 7 - Corp Prod. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20369' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:20369 for  I Can't Find My Security Access Item (SVU-HO): Cognos Impromptu User 7.0 - Win 7 - Corp Prod. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20369' target=blank>here</a> to access the request
+
+Mohammad, Yahiya Khan (ymoh001)
+Software: - Cognos Impromptu User 7.0 - Win 7 Fix - Corp Prod
+
+PC: sdwvpccog2641'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/08 18:41:15","5","250888","2016/08/09 17:58:12","Resolved","Request","2016/08/09 12:08:26","Field Update","Mohammad, Yahiya Khan (ymoh001) - Cognos Impromptu User 7.0 - Win 7 Fix - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:20369 for  I Can't Find My Security Access Item (SVU-HO): Attachmate Extra 8.0' NEW='Mohammad, Yahiya Khan (ymoh001) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:20369 for  I Can't Find My Security Access Item (SVU-HO): Attachmate Extra 8.0. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20369' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:20369 for  I Can't Find My Security Access Item (SVU-HO): Attachmate Extra 8.0. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20369' target=blank>here</a> to access the request
+
+Mohammad, Yahiya Khan (ymoh001)
+Software: - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod
+
+PC: sdwvpccog2641'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/08 18:41:16","5","250889","2016/08/09 16:18:38","Resolved","Request","2016/08/09 12:11:57","Field Update","Mohammad, Yahiya Khan (ymoh001) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/08 18:41:16","5","250889","2016/08/09 16:18:38","Resolved","Request","2016/08/09 12:11:57","Transfer","Mohammad, Yahiya Khan (ymoh001) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:20369 for  I Can't Find My Security Access Item (SVU-HO): Chesapeake Trecs' NEW='Mohammad, Yahiya Khan (ymoh001) - Chesapeake T-Recs Client Prod 6.3.6 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:20369 for  I Can't Find My Security Access Item (SVU-HO): Chesapeake Trecs. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20369' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:20369 for  I Can't Find My Security Access Item (SVU-HO): Chesapeake Trecs. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=20369' target=blank>here</a> to access the request
+
+Mohammad, Yahiya Khan (ymoh001)
+Software: - Chesapeake T-Recs Client Prod 6.3.6 - Corp Prod
+
+PC: sdwvpccog2641'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/08 18:41:19","5","250891","2016/08/09 18:07:48","Resolved","Request","2016/08/09 12:17:33","Field Update","Mohammad, Yahiya Khan (ymoh001) - Chesapeake T-Recs Client Prod 6.3.6 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/08 18:41:19","5","250891","2016/08/09 18:07:48","Resolved","Request","2016/08/09 12:17:33","Transfer","Mohammad, Yahiya Khan (ymoh001) - Chesapeake T-Recs Client Prod 6.3.6 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/08 18:41:15","5","250888","2016/08/09 17:58:12","Resolved","Request","2016/08/09 12:08:27","Transfer","Mohammad, Yahiya Khan (ymoh001) - Cognos Impromptu User 7.0 - Win 7 Fix - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26983 for  New Hire On Boarding: New Hire Laptop - Mobile User' NEW='New Hire On Boarding:Jones, Paula (pjon01x) - New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:26983 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26983' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26983 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26983' target=blank>here</a> to access the request
+
+Jones, Paula (pjon01x)
+Items requested: New Hire Laptop - Mobile User
+Location: 101 jefferson ave s.  hopkins, mn
+Date Required: 8/22/2016
+Start Date: 8/21/2016
+'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 RegionSupport Northern IT","2016/08/08 16:48:48","5","250743","","Open","Request","2016/08/09 12:32:29","Field Update","New Hire On Boarding:Jones, Paula (pjon01x) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 RegionSupport Northern IT","2016/08/08 16:48:48","5","250743","","Open","Request","2016/08/09 12:32:29","Transfer","New Hire On Boarding:Jones, Paula (pjon01x) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26844 for  Most Popular Licensed Software approval needed: WinZip Client' NEW='Tracy, Marjorie (hhmat0) - WinZip Client 14.5 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:26844 for  Most Popular Licensed Software approval needed: WinZip Client. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26844' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26844 for  Most Popular Licensed Software approval needed: WinZip Client. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26844' target=blank>here</a> to access the request
+
+Tracy, Marjorie (hhmat0)
+Software: - WinZip Client 14.5 - Corp Prod
+
+PC: RNOCNU404BC2T'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/09 09:26:01","5","252281","2016/08/09 16:21:14","Resolved","Request","2016/08/09 12:38:15","Field Update","Tracy, Marjorie (hhmat0) - WinZip Client 14.5 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/09 09:26:01","5","252281","2016/08/09 16:21:14","Resolved","Request","2016/08/09 12:38:15","Transfer","Tracy, Marjorie (hhmat0) - WinZip Client 14.5 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27138 for  Most Popular PC Software: Adobe Acrobat X Professional' NEW='Saffrin, Samuel (ssaf002) - Adobe Acrobat X Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27138 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27138' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27138 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27138' target=blank>here</a> to access the request
+
+Saffrin, Samuel (ssaf002)
+Software: - Adobe Acrobat X Standard - Corp Prod
+
+PC:  SDECNU2321BFC
+
+licensing for Pro not available'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/09 10:48:33","5","252577","2016/08/09 15:55:55","Resolved","Request","2016/08/09 12:42:09","Field Update","Saffrin, Samuel (ssaf002) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27153 for  Most Popular PC Software: Adobe Acrobat X Professional' NEW='Kutz, Matthew (mkut007) - Adobe Acrobat X Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27153 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27153' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27153 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27153' target=blank>here</a> to access the request
+
+Kutz, Matthew (mkut007)
+Software: - Adobe Acrobat X Standard - Corp Prod
+
+PC:  SDECNU312B9QS
+
+licensing for Pro not available'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/09 11:28:59","5","252699","2016/08/09 16:05:16","Resolved","Request","2016/08/09 12:46:02","Field Update","Kutz, Matthew (mkut007) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/09 11:28:59","5","252699","2016/08/09 16:05:16","Resolved","Request","2016/08/09 12:46:02","Transfer","Kutz, Matthew (mkut007) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/09 10:48:33","5","252577","2016/08/09 15:55:55","Resolved","Request","2016/08/09 12:46:49","Transfer","Saffrin, Samuel (ssaf002) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Acknowledged' to 'Open'","","","L2 Desktop Support VVIEW","2016/07/22 08:59:49","5","186044","","In Progress","Request","2016/08/09 13:48:28","Update Status","Funches, Michael (mfun00d) - (4) E2316H - Monitor - Dell 23in Monitors"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","L2 Desktop Support VVIEW","2016/07/22 08:59:49","5","186044","","In Progress","Request","2016/08/09 13:48:28","Transfer","Funches, Michael (mfun00d) - (4) E2316H - Monitor - Dell 23in Monitors"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/06/09 06:19:53","5","37278","2016/08/09 14:27:10","Resolved","Request","2016/08/09 14:27:10","Resolved","Service Catalog Request ID:11609 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/06/09 06:19:53","5","37278","2016/08/09 14:27:10","Resolved","Request","2016/08/09 14:27:11","Delay Service Type","Service Catalog Request ID:11609 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","L2 IT Request Center","2016/06/09 06:19:53","5","37278","2016/08/09 14:27:10","Resolved","Request","2016/08/09 14:27:11","Transfer","Service Catalog Request ID:11609 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Impact' OLD='5-One person' NEW='None'
+","","","L2 IT Request Center","2016/06/09 06:19:53","5","37278","2016/08/09 14:27:10","Resolved","Request","2016/08/09 14:27:11","Field Update","Service Catalog Request ID:11609 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 13:27:11 - Mountain Time (GMT-0700)","","","L2 IT Request Center","2016/06/09 06:19:53","5","37278","2016/08/09 14:27:10","Resolved","Request","2016/08/09 14:27:11","Auto Close","Service Catalog Request ID:11609 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/06/13 17:31:45","5","52162","2016/08/09 14:28:10","Resolved","Request","2016/08/09 14:27:57","Resolved","cancelled dupicate. see Request 52151.  Service Catalog Request ID:11138 for  Power Cords: Laptop Power Cord"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/06/13 17:31:45","5","52162","2016/08/09 14:28:10","Resolved","Request","2016/08/09 14:28:11","Delay Service Type","cancelled dupicate. see Request 52151.  Service Catalog Request ID:11138 for  Power Cords: Laptop Power Cord"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 15:28:11 - Eastern Time (GMT-0500)","","","L2 IT Request Center","2016/06/13 17:31:45","5","52162","2016/08/09 14:28:10","Resolved","Request","2016/08/09 14:28:11","Auto Close","cancelled dupicate. see Request 52151.  Service Catalog Request ID:11138 for  Power Cords: Laptop Power Cord"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/06/16 15:06:40","5","63290","2016/08/09 14:29:02","Resolved","Request","2016/08/09 14:28:50","Resolved","Service Catalog Request ID:13921 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/06/16 15:06:40","5","63290","2016/08/09 14:29:02","Resolved","Request","2016/08/09 14:29:02","Delay Service Type","Service Catalog Request ID:13921 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 14:29:03 - Central Time (GMT-0600)","","","L2 IT Request Center","2016/06/16 15:06:40","5","63290","2016/08/09 14:29:02","Resolved","Request","2016/08/09 14:29:03","Auto Close","Service Catalog Request ID:13921 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/06/21 11:03:31","5","81513","2016/08/09 14:29:42","Resolved","Request","2016/08/09 14:29:31","Resolved","Service Catalog Request ID:15038 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/06/21 11:03:31","5","81513","2016/08/09 14:29:42","Resolved","Request","2016/08/09 14:29:43","Delay Service Type","Service Catalog Request ID:15038 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 13:29:43 - Mountain Time (GMT-0700)","","","L2 IT Request Center","2016/06/21 11:03:31","5","81513","2016/08/09 14:29:42","Resolved","Request","2016/08/09 14:29:43","Auto Close","Service Catalog Request ID:15038 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/06/27 08:39:33","5","100329","2016/08/09 14:30:36","Resolved","Request","2016/08/09 14:30:23","Resolved","wrong item ordered. and no approval.    Service Catalog Request ID:10431 for  Hard Drives: USB 2.0 to Serial ATA Drive Adapter"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/06/27 08:39:33","5","100329","2016/08/09 14:30:36","Resolved","Request","2016/08/09 14:30:37","Delay Service Type","wrong item ordered. and no approval.    Service Catalog Request ID:10431 for  Hard Drives: USB 2.0 to Serial ATA Drive Adapter"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 14:30:37 - Central Time (GMT-0600)","","","L2 IT Request Center","2016/06/27 08:39:33","5","100329","2016/08/09 14:30:36","Resolved","Request","2016/08/09 14:30:37","Auto Close","wrong item ordered. and no approval.    Service Catalog Request ID:10431 for  Hard Drives: USB 2.0 to Serial ATA Drive Adapter"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/06/27 09:38:27","5","100745","2016/08/09 14:31:23","Resolved","Request","2016/08/09 14:31:13","Resolved","cancelled, see CA Requests 105968 & 969.      Service Catalog Request ID:16435 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/06/27 09:38:27","5","100745","2016/08/09 14:31:23","Resolved","Request","2016/08/09 14:31:23","Delay Service Type","cancelled, see CA Requests 105968 & 969.      Service Catalog Request ID:16435 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 14:31:24 - Central Time (GMT-0600)","","","L2 IT Request Center","2016/06/27 09:38:27","5","100745","2016/08/09 14:31:23","Resolved","Request","2016/08/09 14:31:24","Auto Close","cancelled, see CA Requests 105968 & 969.      Service Catalog Request ID:16435 for  Request a non Access related item not listed in the Catalog: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/06/27 10:19:16","5","101022","2016/08/09 14:31:59","Resolved","Request","2016/08/09 14:31:50","Resolved","cancelled -  duplicate - see # 101007.  Service Catalog Request ID:15620 for  Most Popular Licensed Software approval needed: Microsoft Office Project 2010"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/06/27 10:19:16","5","101022","2016/08/09 14:31:59","Resolved","Request","2016/08/09 14:32:00","Delay Service Type","cancelled -  duplicate - see # 101007.  Service Catalog Request ID:15620 for  Most Popular Licensed Software approval needed: Microsoft Office Project 2010"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 14:32:00 - Central Time (GMT-0600)","","","L2 IT Request Center","2016/06/27 10:19:16","5","101022","2016/08/09 14:31:59","Resolved","Request","2016/08/09 14:32:00","Auto Close","cancelled -  duplicate - see # 101007.  Service Catalog Request ID:15620 for  Most Popular Licensed Software approval needed: Microsoft Office Project 2010"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/06/30 09:49:14","5","114260","2016/08/09 14:32:31","Resolved","Request","2016/08/09 14:32:19","Resolved","cancelled - duplicate see #114257   Service Catalog Request ID:12951 for  Tableau software: Tableau Development Software"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/06/30 09:49:14","5","114260","2016/08/09 14:32:31","Resolved","Request","2016/08/09 14:32:32","Delay Service Type","cancelled - duplicate see #114257   Service Catalog Request ID:12951 for  Tableau software: Tableau Development Software"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 14:32:32","","","L2 IT Request Center","2016/06/30 09:49:14","5","114260","2016/08/09 14:32:31","Resolved","Request","2016/08/09 14:32:32","Auto Close","cancelled - duplicate see #114257   Service Catalog Request ID:12951 for  Tableau software: Tableau Development Software"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/06/30 09:51:25","5","114279","2016/08/09 14:33:19","Resolved","Request","2016/08/09 14:33:10","Resolved","cancwelled - duplicate see #114278.    Service Catalog Request ID:12053 for  Tableau software: Tableau Development Software"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/06/30 09:51:25","5","114279","2016/08/09 14:33:19","Resolved","Request","2016/08/09 14:33:20","Delay Service Type","cancwelled - duplicate see #114278.    Service Catalog Request ID:12053 for  Tableau software: Tableau Development Software"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 14:33:20 - Central Time (GMT-0600)","","","L2 IT Request Center","2016/06/30 09:51:25","5","114279","2016/08/09 14:33:19","Resolved","Request","2016/08/09 14:33:20","Auto Close","cancwelled - duplicate see #114278.    Service Catalog Request ID:12053 for  Tableau software: Tableau Development Software"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/07/07 10:40:43","5","134090","2016/08/09 14:34:02","Resolved","Request","2016/08/09 14:33:51","Resolved","No software specified.     Service Catalog Request ID:18905 for  Request a non Access related item not listed in the Catalog: Software needed"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/07/07 10:40:43","5","134090","2016/08/09 14:34:02","Resolved","Request","2016/08/09 14:34:02","Delay Service Type","No software specified.     Service Catalog Request ID:18905 for  Request a non Access related item not listed in the Catalog: Software needed"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 14:34:03 - Central Time (GMT-0600)","","","L2 IT Request Center","2016/07/07 10:40:43","5","134090","2016/08/09 14:34:02","Resolved","Request","2016/08/09 14:34:03","Auto Close","No software specified.     Service Catalog Request ID:18905 for  Request a non Access related item not listed in the Catalog: Software needed"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Rejected' to 'Resolved'","","","L2 IT Request Center","2016/07/07 15:07:52","5","135229","2016/08/09 14:34:55","Resolved","Request","2016/08/09 14:34:43","Resolved","Service Catalog Request ID:19110 for  RAM Memory Upgrade: Desktop or Laptop Ram"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/07/07 15:07:52","5","135229","2016/08/09 14:34:55","Resolved","Request","2016/08/09 14:34:55","Delay Service Type","Service Catalog Request ID:19110 for  RAM Memory Upgrade: Desktop or Laptop Ram"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 13:34:55 - Mountain Time (GMT-0700)","","","L2 IT Request Center","2016/07/07 15:07:52","5","135229","2016/08/09 14:34:55","Resolved","Request","2016/08/09 14:34:55","Auto Close","Service Catalog Request ID:19110 for  RAM Memory Upgrade: Desktop or Laptop Ram"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:22688 for  Computer Monitors: Monitor from Inventory' NEW='Funches, Michael (mfun00d) - (4) E2316H - Monitor - Dell 23in Monitors'
+FIELD='Description' OLD='Service Catalog Request ID:22688 for  Computer Monitors: Monitor from Inventory. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=22688' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:22688 for  Computer Monitors: Monitor from Inventory. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=22688' target=blank>here</a> to access the request
+
+Funches, Michael (mfun00d)
+Item Requested: - (4) E2316H - Monitor - Dell 23in Monitor 
+Cost Center:  73300
+Location:  11840 Valley View Rd Eden Prairie MN 55344
+Approved by:   Chad A. Mead VP TS Architecture 
+Requisition #:  177158 '
+","","","L2 Desktop Support VVIEW","2016/07/22 08:59:49","5","186044","","In Progress","Request","2016/08/09 15:30:19","Field Update","Funches, Michael (mfun00d) - (4) E2316H - Monitor - Dell 23in Monitors"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from 'Moss, Russell L' to ''
+Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW","2016/07/22 08:59:49","5","186044","","In Progress","Request","2016/08/09 15:40:08","Transfer","Funches, Michael (mfun00d) - (4) E2316H - Monitor - Dell 23in Monitors"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'In Progress'","","","L2 IT Request Center","2016/08/08 15:22:25","5","250533","2016/08/12 16:38:09","Resolved","Request","2016/08/09 16:20:22","Update Status","Heber, Galen (gheb004) - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:26943 for  RAM Memory Upgrade: Desktop or Laptop Ram' NEW='Heber, Galen (gheb004) - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3'
+FIELD='Description' OLD='Service Catalog Request ID:26943 for  RAM Memory Upgrade: Desktop or Laptop Ram. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26943' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:26943 for  RAM Memory Upgrade: Desktop or Laptop Ram. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26943' target=blank>here</a> to access the request
+
+Heber, Galen (gheb004)
+Item Requested: - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3
+Cost Center:  73030
+Location:   Utah County  Office, 151 West 1300 N, Pleasant Grove, UT 84062
+Approved by:  James P. Chirpich Mgr Technical Services Sr  
+Requisition #:  177148'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 IT Request Center","2016/08/08 15:22:25","5","250533","2016/08/12 16:38:09","Resolved","Request","2016/08/09 16:20:22","Field Update","Heber, Galen (gheb004) - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","L2 IT Request Center","2016/08/08 15:22:25","5","250533","2016/08/12 16:38:09","Resolved","Request","2016/08/09 16:20:22","Transfer","Heber, Galen (gheb004) - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Resolved'","","","L2 IT Request Center","2016/08/09 16:34:35","None","253683","2016/08/09 17:10:16","Resolved","Request","2016/08/09 17:10:16","Resolved","ICA group addition---CA#250788"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/08/09 16:34:35","None","253683","2016/08/09 17:10:16","Resolved","Request","2016/08/09 17:10:16","Delay Service Type","ICA group addition---CA#250788"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Resolution Method' OLD='' NEW='Permanent Fix'
+","","","L2 IT Request Center","2016/08/09 16:34:35","None","253683","2016/08/09 17:10:16","Resolved","Request","2016/08/09 17:10:16","Field Update","ICA group addition---CA#250788"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Automatic closure will occur at: 08/16/2016 16:10:16 - Mountain Time (GMT-0700)","","","L2 IT Request Center","2016/08/09 16:34:35","None","253683","2016/08/09 17:10:16","Resolved","Request","2016/08/09 17:10:16","Auto Close","ICA group addition---CA#250788"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","L2 IT Request Center","2016/08/09 16:34:35","None","253683","2016/08/09 17:10:16","Resolved","Request","2016/08/09 17:10:16","Transfer","ICA group addition---CA#250788"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","I have added user Jen Figuera (jfig00y) to the following groups: 
+ICA.Com-Trol, ICA.Danfoss, ICA.Ultrasite32
+","","","L2 IT Request Center","2016/08/09 16:34:35","None","253683","2016/08/09 17:10:16","Resolved","Request","2016/08/09 17:10:22","Log Comment","ICA group addition---CA#250788"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Awaiting End User Response'","","","Deployment SSC Desktop Server","2016/08/10 10:05:48","5","255414","","Awaiting Vendor","Request","2016/08/10 11:00:26","Update Status","Drussell, Mark (tcmgd0) - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","Deployment SSC Desktop Server","2016/08/10 10:05:48","5","255414","","Awaiting Vendor","Request","2016/08/10 11:00:26","Delay Service Type","Drussell, Mark (tcmgd0) - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","Deployment SSC Desktop Server","2016/08/10 10:05:48","5","255414","","Awaiting Vendor","Request","2016/08/10 11:00:26","Transfer","Drussell, Mark (tcmgd0) - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","Deployment SSC Desktop Server","2016/08/10 10:05:48","5","255414","","Awaiting Vendor","Request","2016/08/10 11:00:26","Field Update","Drussell, Mark (tcmgd0) - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","We are having space issues in our VDI's. Please can you add more disk space.
+
+","","","L3 VDI Infrastructure","2016/08/10 10:22:37","5","255489","","Acknowledged","Request","2016/08/10 11:01:33","Transfer","Service Catalog Request ID:27114 for  Unlisted Hardware: Unlisted PC Item"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'In Progress'","","","L2 IT Request Center","2016/08/09 14:41:14","5","253348","","In Progress","Request","2016/08/10 11:46:20","Update Status","Mercer, Suzanne (smer01m) - (2) E2316H (210-AGQQ) - Monitor - Dell 23in Monitor, (1) Lenovo ThinkPad Mini Dock Series 3 with USB 3.0 - 90 Watt - for ThinkPad | MFG PART #: 433715U "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27246 for  Laptop and Notebook Docking Stations: Laptop Docking Station' NEW='Mercer, Suzanne (smer01m) - (2) E2316H (210-AGQQ) - Monitor - Dell 23in Monitor, (1) Lenovo ThinkPad Mini Dock Series 3 with USB 3.0 - 90 Watt - for ThinkPad | MFG PART #: 433715U '
+FIELD='Description' OLD='Service Catalog Request ID:27246 for  Laptop and Notebook Docking Stations: Laptop Docking Station. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27246' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27246 for  Laptop and Notebook Docking Stations: Laptop Docking Station. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27246' target=blank>here</a> to access the request
+
+Mercer, Suzanne (smer01m)
+Item Requested: - (2) E2316H (210-AGQQ) - Monitor - Dell 23in Monitor, (1) Lenovo ThinkPad Mini Dock Series 3 with USB 3.0 - 90 Watt - for ThinkPad | MFG PART #: 433715U 
+Cost Center:  83394
+Location:  250 Parkcenter Blvd., Boise ID, 83706     Cube: 2S13D03
+Approved by:  Christopher S. Irmscher Group Dir Human Resources  
+Requisition #:  32466 
+
+I will send along a docking station from stock for his ABS HP ProBook 6460b.'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 IT Request Center","2016/08/09 14:41:14","5","253348","","In Progress","Request","2016/08/10 11:46:20","Field Update","Mercer, Suzanne (smer01m) - (2) E2316H (210-AGQQ) - Monitor - Dell 23in Monitor, (1) Lenovo ThinkPad Mini Dock Series 3 with USB 3.0 - 90 Watt - for ThinkPad | MFG PART #: 433715U "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","L2 IT Request Center","2016/08/09 14:41:14","5","253348","","In Progress","Request","2016/08/10 11:46:20","Transfer","Mercer, Suzanne (smer01m) - (2) E2316H (210-AGQQ) - Monitor - Dell 23in Monitor, (1) Lenovo ThinkPad Mini Dock Series 3 with USB 3.0 - 90 Watt - for ThinkPad | MFG PART #: 433715U "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:26943 for  RAM Memory Upgrade: Desktop or Laptop Ram. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26943' target=blank>here</a> to access the request
+
+Heber, Galen (gheb004)
+Item Requested: - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3
+Cost Center:  73030
+Location:   Utah County  Office, 151 West 1300 N, Pleasant Grove, UT 84062
+Approved by:  James P. Chirpich Mgr Technical Services Sr  
+Requisition #:  177148' NEW='Service Catalog Request ID:26943 for  RAM Memory Upgrade: Desktop or Laptop Ram. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=26943' target=blank>here</a> to access the request
+
+Heber, Galen (gheb004)
+Item Requested: - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3
+Cost Center:  73030
+Location:   Utah County  Office, 151 West 1300 N, Pleasant Grove, UT 84062
+Approved by:  James P. Chirpich Mgr Technical Services Sr  
+Requisition #:  177148 = PO 505223'
+","","","L2 IT Request Center","2016/08/08 15:22:25","5","250533","2016/08/12 16:38:09","Resolved","Request","2016/08/10 12:40:08","Field Update","Heber, Galen (gheb004) - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:22688 for  Computer Monitors: Monitor from Inventory. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=22688' target=blank>here</a> to access the request
+
+Funches, Michael (mfun00d)
+Item Requested: - (4) E2316H - Monitor - Dell 23in Monitor 
+Cost Center:  73300
+Location:  11840 Valley View Rd Eden Prairie MN 55344
+Approved by:   Chad A. Mead VP TS Architecture 
+Requisition #:  177158 ' NEW='Service Catalog Request ID:22688 for  Computer Monitors: Monitor from Inventory. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=22688' target=blank>here</a> to access the request
+
+Funches, Michael (mfun00d)
+Item Requested: - (4) E2316H - Monitor - Dell 23in Monitor 
+Cost Center:  73300
+Location:  11840 Valley View Rd Eden Prairie MN 55344
+Approved by:   Chad A. Mead VP TS Architecture 
+Requisition #:  177158 = PO 505224'
+","","","L2 Desktop Support VVIEW","2016/07/22 08:59:49","5","186044","","In Progress","Request","2016/08/10 12:41:09","Field Update","Funches, Michael (mfun00d) - (4) E2316H - Monitor - Dell 23in Monitors"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27314 for  New Hire On Boarding: New Hire Laptop - Mobile User' NEW='New Hire On Boarding:Chia Yang - New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:27314 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27314' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27314 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27314' target=blank>here</a> to access the request
+
+Chia Yang
+Items requested: New Hire Laptop - Mobile User
+Location: Mitchell Center
+Date Required: 8/18/2016
+Start Date: 8/21/2016'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/09 16:05:24","5","253621","","Open","Request","2016/08/10 13:42:35","Field Update","New Hire On Boarding:Chia Yang - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/09 16:05:24","5","253621","","Open","Request","2016/08/10 13:42:35","Transfer","New Hire On Boarding:Chia Yang - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27345 for  New Hire On Boarding: New Hire Laptop - Mobile User' NEW='New Hire On Boarding:Santhosh Kadali - New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:27345 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27345' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27345 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27345' target=blank>here</a> to access the request
+
+Santhosh Kadali
+Items requested:  New Hire Laptop - Mobile User
+Location:  Valley View    
+Date Required: 8/15/2016
+Start Date: 8/11/2016'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/09 17:13:44","5","253789","","In Progress","Request","2016/08/10 13:52:34","Field Update","New Hire On Boarding:Santhosh Kadali - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/09 17:13:44","5","253789","","In Progress","Request","2016/08/10 13:52:34","Transfer","New Hire On Boarding:Santhosh Kadali - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:25570 for  Request a non Access related item not listed in the Catalog: Software needed' NEW='Revard, Heidi - Inhouse Chargeback 6.3 - Corp QA'
+FIELD='Description' OLD='Service Catalog Request ID:25570 for  Request a non Access related item not listed in the Catalog: Software needed. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25570' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:25570 for  Request a non Access related item not listed in the Catalog: Software needed. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25570' target=blank>here</a> to access the request
+
+Revard, Heidi
+Software: - Inhouse Chargeback 6.3 - Corp QA
+
+PC: SDW2UA001147P'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/09 18:53:56","5","253939","2016/08/10 16:26:28","Resolved","Request","2016/08/10 13:59:21","Field Update","Revard, Heidi - Inhouse Chargeback 6.3 - Corp QA"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/09 18:53:56","5","253939","2016/08/10 16:26:28","Resolved","Request","2016/08/10 13:59:21","Transfer","Revard, Heidi - Inhouse Chargeback 6.3 - Corp QA"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Description' OLD='Service Catalog Request ID:27388 for  Replacement request for #21149-New Hire On Boarding: New Hire standard Desktop - Resident User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27388' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27388 for  Replacement request for #21149-New Hire On Boarding: New Hire standard Desktop - Resident User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27388' target=blank>here</a> to access the request
+
+Adriana Beltran
+Item requested:  New Hire standard Desktop - Resident User
+Location: Fullerton Division Office  Cube: 2242
+Date Required: 
+Start Date: 7/11/2016
+Note:  CA Request 170948 from Catalog request 21149 is still pending, but Catalog request 21149 is pending cancel.'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='3-Quickly'
+","","","Retail Field Services SoCal","2016/08/10 06:16:16","5","254729","","Open","Request","2016/08/10 17:35:20","Field Update","Service Catalog Request ID:27388 for  Replacement request for #21149-New Hire On Boarding: New Hire standard Desktop - Resident User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer group from 'L2 IT Request Center' to 'Retail Field Services SoCal'
+","","","Retail Field Services SoCal","2016/08/10 06:16:16","5","254729","","Open","Request","2016/08/10 17:35:39","Transfer","Service Catalog Request ID:27388 for  Replacement request for #21149-New Hire On Boarding: New Hire standard Desktop - Resident User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:23914 for  Chargeback - Security Access  (SVU-HO): Dell Toad Standard' NEW='Rajagopalan, Prajitha (praj005) - Dell Toad For Oracle 12.8 Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:23914 for  Chargeback - Security Access  (SVU-HO): Dell Toad Standard. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=23914' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:23914 for  Chargeback - Security Access  (SVU-HO): Dell Toad Standard. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=23914' target=blank>here</a> to access the request
+
+Rajagopalan, Prajitha (praj005)
+Software: - Dell Toad For Oracle 12.8 Standard - Corp Prod
+
+PC: sdwvpctcs3244'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/09 19:43:54","5","254070","2016/08/15 04:06:46","Resolved","Request","2016/08/10 17:21:02","Field Update","Rajagopalan, Prajitha (praj005) - Dell Toad For Oracle 12.8 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/09 19:43:54","5","254070","2016/08/15 04:06:46","Resolved","Request","2016/08/10 17:21:02","Transfer","Rajagopalan, Prajitha (praj005) - Dell Toad For Oracle 12.8 Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:25902 for  Request a non Access related item not listed in the Catalog: Software needed' NEW='Clark, Dwayne (dcla04g) - Sun JRE 1.7.0.80 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:25902 for  Request a non Access related item not listed in the Catalog: Software needed. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25902' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:25902 for  Request a non Access related item not listed in the Catalog: Software needed. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=25902' target=blank>here</a> to access the request
+
+Clark, Dwayne (dcla04g)
+Software: - Sun JRE 1.7.0.80 - Corp Prod
+
+PC: SDECNU402BBQG'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/10 07:33:28","5","254867","2016/08/12 13:47:44","Resolved","Request","2016/08/11 09:44:40","Field Update","Clark, Dwayne (dcla04g) - Sun JRE 1.7.0.80 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/10 07:33:28","5","254867","2016/08/12 13:47:44","Resolved","Request","2016/08/11 09:44:40","Transfer","Clark, Dwayne (dcla04g) - Sun JRE 1.7.0.80 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Awaiting End User Response'","","","L2 IT Request Center","2016/08/10 10:35:26","5","255537","","Awaiting End User Response","Request","2016/08/11 09:54:59","Update Status","Service Catalog Request ID:27484 for  Most Popular PC Software: Adobe Acrobat X Professional"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/08/10 10:35:26","5","255537","","Awaiting End User Response","Request","2016/08/11 09:54:59","Delay Service Type","Service Catalog Request ID:27484 for  Most Popular PC Software: Adobe Acrobat X Professional"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","L2 IT Request Center","2016/08/10 10:35:26","5","255537","","Awaiting End User Response","Request","2016/08/11 09:54:59","Transfer","Service Catalog Request ID:27484 for  Most Popular PC Software: Adobe Acrobat X Professional"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 IT Request Center","2016/08/10 10:35:26","5","255537","","Awaiting End User Response","Request","2016/08/11 09:54:59","Field Update","Service Catalog Request ID:27484 for  Most Popular PC Software: Adobe Acrobat X Professional"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27578 for  Most Popular PC Software: Adobe Acrobat Professional 9.3.1' NEW='Taylor, Steven (w1smt0) - Adobe Acrobat X Professional  - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27578 for  Most Popular PC Software: Adobe Acrobat Professional 9.3.1. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27578' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27578 for  Most Popular PC Software: Adobe Acrobat Professional 9.3.1. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27578' target=blank>here</a> to access the request
+
+Taylor, Steven (w1smt0)
+Software: - Adobe Acrobat X Professional  - Corp Prod
+
+New PC: SNS7K6VGC2.svuent.supervalu.com
+Old PC: SNS5CG43718MX.svuent.supervalu.com
+Please uninstall and remove advertisement from old PC prior to advertising on new PC. '
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/10 13:58:21","5","256123","2016/08/12 14:14:30","Resolved","Request","2016/08/11 10:01:58","Field Update","Taylor, Steven (w1smt0) - Adobe Acrobat X Professional  - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/10 13:58:21","5","256123","2016/08/12 14:14:30","Resolved","Request","2016/08/11 10:01:58","Transfer","Taylor, Steven (w1smt0) - Adobe Acrobat X Professional  - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Awaiting End User Response'","","","L2 IT Request Center","2016/08/10 14:08:41","5","256159","","Awaiting End User Response","Request","2016/08/11 10:06:26","Update Status","Service Catalog Request ID:27580 for  Inhouse Supervalu Applications: ARx Central Reporting Application Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","L2 IT Request Center","2016/08/10 14:08:41","5","256159","","Awaiting End User Response","Request","2016/08/11 10:06:26","Delay Service Type","Service Catalog Request ID:27580 for  Inhouse Supervalu Applications: ARx Central Reporting Application Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","L2 IT Request Center","2016/08/10 14:08:41","5","256159","","Awaiting End User Response","Request","2016/08/11 10:06:26","Transfer","Service Catalog Request ID:27580 for  Inhouse Supervalu Applications: ARx Central Reporting Application Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 IT Request Center","2016/08/10 14:08:41","5","256159","","Awaiting End User Response","Request","2016/08/11 10:06:26","Field Update","Service Catalog Request ID:27580 for  Inhouse Supervalu Applications: ARx Central Reporting Application Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27233 for  Request a non Access related item not listed in the Catalog: Software needed' NEW='Amott, Kelly (kamo006) - Filenet Panagon IDM Desktop 4.0 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27233 for  Request a non Access related item not listed in the Catalog: Software needed. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27233' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27233 for  Request a non Access related item not listed in the Catalog: Software needed. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27233' target=blank>here</a> to access the request
+
+Amott, Kelly (kamo006)
+Software: - Filenet Panagon IDM Desktop 4.0 - Corp Prod
+
+PC: SDE5CG5517263'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/10 15:41:09","5","256649","2016/08/12 14:17:25","Resolved","Request","2016/08/11 10:11:01","Field Update","Amott, Kelly (kamo006) - Filenet Panagon IDM Desktop 4.0 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/10 15:41:09","5","256649","2016/08/12 14:17:25","Resolved","Request","2016/08/11 10:11:01","Transfer","Amott, Kelly (kamo006) - Filenet Panagon IDM Desktop 4.0 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27720 for  Most Popular PC Software: Adobe Acrobat X Professional' NEW='Ruiz, Ignacio (irui006) - Adobe Acrobat X Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27720 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27720' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27720 for  Most Popular PC Software: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27720' target=blank>here</a> to access the request
+
+Ruiz, Ignacio (irui006)
+Software: - Adobe Acrobat X Standard - Corp Prod
+
+PC:  OMA5CG6087R89
+
+licensing for Pro not available'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/11 06:55:16","5","258194","2016/08/12 14:19:55","Resolved","Request","2016/08/11 10:13:26","Field Update","Ruiz, Ignacio (irui006) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/11 06:55:16","5","258194","2016/08/12 14:19:55","Resolved","Request","2016/08/11 10:13:26","Transfer","Ruiz, Ignacio (irui006) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27505 for  New Hire On Boarding Iain St James : New Hire Laptop - Mobile User' NEW='New Hire On Boarding Iain St James : New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:27505 for  New Hire On Boarding Iain St James : New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27505' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27505 for  New Hire On Boarding Iain St James : New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27505' target=blank>here</a> to access the request
+
+Iain St James
+Items requested:  New Hire Laptop - Mobile User
+Location:  Valley View    
+Date Required: 8/17/2016
+Start Date: 8/17/2016'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/10 11:04:23","5","255628","","Open","Request","2016/08/11 16:01:20","Field Update","New Hire On Boarding Iain St James : New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/10 11:04:23","5","255628","","Open","Request","2016/08/11 16:01:20","Transfer","New Hire On Boarding Iain St James : New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27561 for  New Hire On Boarding: New Hire Laptop - Mobile User' NEW='New Hire On Boarding: Morrison, Amy (amor0aa) - New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:27561 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27561' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27561 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27561' target=blank>here</a> to access the request
+
+Morrison, Amy (amor0aa)
+Items requested: New Hire Laptop - Mobile User
+Location: Mitchell Center
+Date Required: 8/19/2016
+Start Date: 8/21/2016'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='4-Soon'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/10 13:38:09","5","256042","","Open","Request","2016/08/11 16:08:20","Field Update","New Hire On Boarding: Morrison, Amy (amor0aa) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/10 13:38:09","5","256042","","Open","Request","2016/08/11 16:08:20","Transfer","New Hire On Boarding: Morrison, Amy (amor0aa) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27579 for  New Hire On Boarding: New Hire standard Desktop - Resident User' NEW='New Hire On Boarding:Danielle Childers - New Hire standard Desktop - Resident User'
+FIELD='Description' OLD='Service Catalog Request ID:27579 for  New Hire On Boarding: New Hire standard Desktop - Resident User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27579' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27579 for  New Hire On Boarding: New Hire standard Desktop - Resident User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27579' target=blank>here</a> to access the request
+
+Danielle Childers
+Item requested:  New Hire standard Desktop - Resident User
+Location: 250 ParkCenter Blvd Boise, ID 83706  
+Date Required: 
+Start Date: 8/21/2016'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L2 Desktop Services LLC-Desktop Support","2016/08/10 14:02:42","5","256139","","Open","Request","2016/08/11 16:13:09","Field Update","New Hire On Boarding:Danielle Childers - New Hire standard Desktop - Resident User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L2 Desktop Services LLC-Desktop Support'
+","","","L2 Desktop Services LLC-Desktop Support","2016/08/10 14:02:42","5","256139","","Open","Request","2016/08/11 16:13:09","Transfer","New Hire On Boarding:Danielle Childers - New Hire standard Desktop - Resident User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27539 for  Laptops and Notebooks: Laptop Bundle' NEW='Service Catalog Request ID:27539 for  Richard Kirschner: Laptop Bundle'
+FIELD='Description' OLD='Service Catalog Request ID:27539 for  Laptops and Notebooks: Laptop Bundle. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27539' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27539 for  Laptops and Notebooks: Laptop Bundle. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27539' target=blank>here</a> to access the request
+
+Richard Kirschner
+Item requested:  Laptop Bundle
+Location: 2457 F.M. 1636 West, Stamford TX 79553
+Date Required: 
+Note:   '
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","Deployment SSC Desktop Server","2016/08/10 12:56:39","5","255931","","Open","Request","2016/08/11 16:52:23","Field Update","Service Catalog Request ID:27539 for  Richard Kirschner: Laptop Bundle"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","Deployment SSC Desktop Server","2016/08/10 12:56:39","5","255931","","Open","Request","2016/08/11 16:52:23","Transfer","Service Catalog Request ID:27539 for  Richard Kirschner: Laptop Bundle"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27803 for  New Hire On Boarding: New Hire Laptop - Mobile User' NEW='New Hire On Boarding:Roehrborn, Morgan (mroe00m) - New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:27803 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27803' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27803 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27803' target=blank>here</a> to access the request
+
+Roehrborn, Morgan (mroe00m)
+Items requested:  New Hire Laptop - Mobile User
+Location:  Valley View    
+Date Required: 8/15/2016
+Start Date: 8/14/2016
+Note: User is going from contractor to employee starting on 8-15. He will need to keep all of his same accesses. Please have a new laptop ready for  him.
+Contractor ID: 3507168
+Contractor User Name: mroe00i
+Employee ID: 3541232
+Employee User Name: mroe00m'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='4-Soon'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/11 11:07:49","5","259107","2016/08/15 15:58:47","Resolved","Request","2016/08/11 16:59:16","Field Update","New Hire On Boarding:Roehrborn, Morgan (mroe00m) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/11 11:07:49","5","259107","2016/08/15 15:58:47","Resolved","Request","2016/08/11 16:59:16","Transfer","New Hire On Boarding:Roehrborn, Morgan (mroe00m) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27800 for  New Hire On Boarding: New Hire Laptop - Mobile User' NEW='New Hire On Boarding:Tryon, Jeffrey (z3jgt0) - New Hire Laptop - Mobile User'
+FIELD='Description' OLD='Service Catalog Request ID:27800 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27800' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27800 for  New Hire On Boarding: New Hire Laptop - Mobile User. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27800' target=blank>here</a> to access the request
+
+Tryon, Jeffrey (z3jgt0)
+Items requested:  New Hire Laptop - Mobile User
+Location:  Valley View    
+Date Required: 
+Start Date: 8/10/2016
+Note: Transfer from Region
+APPROVER = Brian W. Audette'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='4-Soon'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/11 11:03:26","5","259086","","Open","Request","2016/08/11 16:46:59","Field Update","New Hire On Boarding:Tryon, Jeffrey (z3jgt0) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","L2 Desktop Support VVIEW Walk-up","2016/08/11 11:03:26","5","259086","","Open","Request","2016/08/11 16:46:59","Transfer","New Hire On Boarding:Tryon, Jeffrey (z3jgt0) - New Hire Laptop - Mobile User"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Awaiting End User Response' to 'Open'","","","Deployment SSC Desktop Server","2016/08/10 10:05:48","5","255414","","Awaiting Vendor","Request","2016/08/11 17:31:52","Update Status","Drussell, Mark (tcmgd0) - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on the ticket were resumed","","","Deployment SSC Desktop Server","2016/08/10 10:05:48","5","255414","","Awaiting Vendor","Request","2016/08/11 17:31:52","Resume Service Type","Drussell, Mark (tcmgd0) - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27101 for  RAM Memory Upgrade: Desktop or Laptop Ram' NEW='Drussell, Mark (tcmgd0) - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3 '
+FIELD='Description' OLD='Service Catalog Request ID:27101 for  RAM Memory Upgrade: Desktop or Laptop Ram. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27101' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27101 for  RAM Memory Upgrade: Desktop or Laptop Ram. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27101' target=blank>here</a> to access the request
+
+Please replace the 2GB stick with this 4GB.
+
+Drussell, Mark (tcmgd0)
+Item Requested: - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3
+Cost Center:  75821
+Location: 11840 Valley View Rd Eden Prairie MN 55344     
+Approved by:  Scott T. Larson Dir Technical Services Sr 
+Requisition #:  177205  '
+","","","Deployment SSC Desktop Server","2016/08/10 10:05:48","5","255414","","Awaiting Vendor","Request","2016/08/11 17:31:52","Field Update","Drussell, Mark (tcmgd0) - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from 'Moss, Russell L' to ''
+Transfer Group from 'L2 IT Request Center' to 'Deployment SSC Desktop Server'
+","","","Deployment SSC Desktop Server","2016/08/10 10:05:48","5","255414","","Awaiting Vendor","Request","2016/08/11 17:31:52","Transfer","Drussell, Mark (tcmgd0) - (1) B4U39AA-AX - AXIOM 4GB DDR3-1600 SODIMM FOR HP # B4U3 "
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Status changed from 'Open' to 'Awaiting End User Response'","","","Deployment SSC Desktop Server","2016/08/11 13:19:44","5","259575","","Awaiting Vendor","Request","2016/08/11 17:41:11","Update Status","Ostapenko, Anthony (aost00f) - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","The Service Type(s) on a ticket were delayed","","","Deployment SSC Desktop Server","2016/08/11 13:19:44","5","259575","","Awaiting Vendor","Request","2016/08/11 17:41:11","Delay Service Type","Ostapenko, Anthony (aost00f) - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Assignee from '' to 'Moss, Russell L'
+","","","Deployment SSC Desktop Server","2016/08/11 13:19:44","5","259575","","Awaiting Vendor","Request","2016/08/11 17:41:11","Transfer","Ostapenko, Anthony (aost00f) - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","Deployment SSC Desktop Server","2016/08/11 13:19:44","5","259575","","Awaiting Vendor","Request","2016/08/11 17:41:11","Field Update","Ostapenko, Anthony (aost00f) - (1) B4U38AA-AX - AXIOM 2GB DDR3-1600 SODIMM FOR HP # B4U3"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27712 for  Mainframe-EP Dataset Access (ALB-DC): Attachmate Extra' NEW='Kamshette, Omkar (okam002) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27712 for  Mainframe-EP Dataset Access (ALB-DC): Attachmate Extra. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27712' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27712 for  Mainframe-EP Dataset Access (ALB-DC): Attachmate Extra. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27712' target=blank>here</a> to access the request
+
+Kamshette, Omkar (okam002)
+Software: - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod
+
+PC: sdwvpctcs3254'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/11 07:01:22","5","258218","2016/08/15 04:19:18","Resolved","Request","2016/08/11 17:46:43","Field Update","Kamshette, Omkar (okam002) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","Microsoft-SCCM-Client-2012","L3 Production Control Windows","2016/08/11 07:01:22","5","258218","2016/08/15 04:19:18","Resolved","Request","2016/08/11 17:46:43","Transfer","Kamshette, Omkar (okam002) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27565 for  Most Popular Licensed Software approval needed - EXTRA - for Dana Teubert: Attachmate Extra' NEW='Teubert, Dana (dteu001) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27565 for  Most Popular Licensed Software approval needed - EXTRA - for Dana Teubert: Attachmate Extra. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27565' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27565 for  Most Popular Licensed Software approval needed - EXTRA - for Dana Teubert: Attachmate Extra. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27565' target=blank>here</a> to access the request
+
+Teubert, Dana (dteu001)
+Software: - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod
+
+PC: SDEFP1VGC2'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/11 09:26:23","5","258713","","Awaiting End User Response","Request","2016/08/11 17:49:11","Field Update","Teubert, Dana (dteu001) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/11 09:26:23","5","258713","","Awaiting End User Response","Request","2016/08/11 17:49:11","Transfer","Teubert, Dana (dteu001) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27636 for  Licensed Software - Approval needed: Attachmate Extra 8.0' NEW='Biyani, Ramdev (rbiy001) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27636 for  Licensed Software - Approval needed: Attachmate Extra 8.0. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27636' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27636 for  Licensed Software - Approval needed: Attachmate Extra 8.0. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27636' target=blank>here</a> to access the request
+
+Biyani, Ramdev (rbiy001)
+Software: - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod
+
+PC: sdwvpccog2640'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/11 10:51:23","5","259027","2016/08/12 18:22:05","Resolved","Request","2016/08/11 17:51:24","Field Update","Biyani, Ramdev (rbiy001) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/11 10:51:23","5","259027","2016/08/12 18:22:05","Resolved","Request","2016/08/11 17:51:24","Transfer","Biyani, Ramdev (rbiy001) - Attachmate EXTRA Xtreme 9.2 SP1 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27636 for  Licensed Software - Approval needed: Cognos Impromptu User 7.0 - Win 7 - Corp Prod' NEW='Biyani, Ramdev (rbiy001) - Cognos Impromptu User 7.0 - Win 7 Fix - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27636 for  Licensed Software - Approval needed: Cognos Impromptu User 7.0 - Win 7 - Corp Prod. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27636' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27636 for  Licensed Software - Approval needed: Cognos Impromptu User 7.0 - Win 7 - Corp Prod. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27636' target=blank>here</a> to access the request
+
+Biyani, Ramdev (rbiy001)
+Software: - Cognos Impromptu User 7.0 - Win 7 Fix - Corp Prod
+
+PC: sdwvpccog2640'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/11 10:51:24","5","259028","","Awaiting End User Response","Request","2016/08/11 17:54:03","Field Update","Biyani, Ramdev (rbiy001) - Cognos Impromptu User 7.0 - Win 7 Fix - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/11 10:51:24","5","259028","","Awaiting End User Response","Request","2016/08/11 17:54:03","Transfer","Biyani, Ramdev (rbiy001) - Cognos Impromptu User 7.0 - Win 7 Fix - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27787 for  Most Popular Licensed Software approval needed: Microsoft Office Visio Professional 2010' NEW='Staggs, Christopher (csta0c0) - Microsoft Visio 2010 Professional - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27787 for  Most Popular Licensed Software approval needed: Microsoft Office Visio Professional 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27787' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27787 for  Most Popular Licensed Software approval needed: Microsoft Office Visio Professional 2010. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27787' target=blank>here</a> to access the request
+
+Staggs, Christopher (csta0c0)
+Software: - Microsoft Visio 2010 Professional - Corp Prod
+
+PC: SALCNU23012DG'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/11 13:17:50","5","259571","2016/08/15 05:33:14","Resolved","Request","2016/08/11 18:00:50","Field Update","Staggs, Christopher (csta0c0) - Microsoft Visio 2010 Professional - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/11 13:17:50","5","259571","2016/08/15 05:33:14","Resolved","Request","2016/08/11 18:00:50","Transfer","Staggs, Christopher (csta0c0) - Microsoft Visio 2010 Professional - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27787 for  Most Popular Licensed Software approval needed: Adobe Acrobat X Professional' NEW='Staggs, Christopher (csta0c0) - Adobe Acrobat X Standard - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27787 for  Most Popular Licensed Software approval needed: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27787' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27787 for  Most Popular Licensed Software approval needed: Adobe Acrobat X Professional. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27787' target=blank>here</a> to access the request
+
+Staggs, Christopher (csta0c0)
+Software: - Adobe Acrobat X Standard - Corp Prod
+
+PC:  SALCNU23012DG'
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/11 13:17:49","5","259568","","Awaiting End User Response","Request","2016/08/11 18:05:51","Field Update","Staggs, Christopher (csta0c0) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/11 13:17:49","5","259568","","Awaiting End User Response","Request","2016/08/11 18:05:51","Transfer","Staggs, Christopher (csta0c0) - Adobe Acrobat X Standard - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27546 for  Licensed Software - Approval needed: Teradata SQL Assistant 13' NEW='Swagel-Wirth, Amanda (awir000) - Multiple items please see below;'
+FIELD='Description' OLD='Service Catalog Request ID:27546 for  Licensed Software - Approval needed: Teradata SQL Assistant 13. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27546' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27546 for  Licensed Software - Approval needed: Teradata SQL Assistant 13. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27546' target=blank>here</a> to access the request
+
+Swagel-Wirth, Amanda (awir000) - Multiple items please see below;
+Software:
+Microsoft .NET 4.0 - Corp Prod - Install 
+IBM DB2 Client 9.7.7 - Corp Prod - Install 
+Teradata SQL Assistant 14.0 - Corp Prod - Install
+
+New PC: DGBH93GHC2
+Old PC: DGBCNU3379H7W
+Please uninstall and remove advertisement from old PC prior to advertising on new PC. '
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/11 15:14:41","5","259922","","Awaiting End User Response","Request","2016/08/11 18:12:49","Field Update","Swagel-Wirth, Amanda (awir000) - Multiple items please see below;"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/11 15:14:41","5","259922","","Awaiting End User Response","Request","2016/08/11 18:12:49","Transfer","Swagel-Wirth, Amanda (awir000) - Multiple items please see below;"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","FIELD='Summary' OLD='Service Catalog Request ID:27546 for  Licensed Software - Approval needed: DatawatchMonarch Std 10' NEW='Swagel-Wirth, Amanda (awir000) - Datawatch Monarch Std 10.0 - Corp Prod'
+FIELD='Description' OLD='Service Catalog Request ID:27546 for  Licensed Software - Approval needed: DatawatchMonarch Std 10. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27546' target=blank>here</a> to access the request' NEW='Service Catalog Request ID:27546 for  Licensed Software - Approval needed: DatawatchMonarch Std 10. Please click <a href='https://cat14.supervalu.com/usm/wpf?Node=icguinode.requestprofile&Args=27546' target=blank>here</a> to access the request
+
+Swagel-Wirth, Amanda (awir000)
+Software: - Datawatch Monarch Std 10.0 - Corp Prod
+
+New PC: DGBH93GHC2
+Old PC: DGBCNU3379H7W
+Please uninstall and remove advertisement from old PC prior to advertising on new PC. '
+FIELD='Impact' OLD='' NEW='5-One person'
+FIELD='Urgency' OLD='' NEW='5-When Possible'
+","","","L3 Production Control Windows","2016/08/11 15:14:42","5","259927","","Awaiting End User Response","Request","2016/08/11 18:14:18","Field Update","Swagel-Wirth, Amanda (awir000) - Datawatch Monarch Std 10.0 - Corp Prod"
+"Moss, Russell L","rmos00y","rmos00y","Moss, Russell L","L2 IT Request Center","Transfer Group from 'L2 IT Request Center' to 'L3 Production Control Windows'
+","","","L3 Production Control Windows","2016/08/11 15:14:42","5","259927","","Awaiting End User Response","Request","2016/08/11 18:14:18","Transfer","Swagel-Wirth, Amanda (awir000) - Datawatch Monarch Std 10.0 - Corp Prod"

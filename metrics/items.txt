@@ -1,0 +1,115 @@
+Imaging Toledo IMPACT-S
+Testing Toledo IMPACT-S
+Imaging Toledo UCCW
+Testing Toledo UCCW
+Imaging CISCO 1252
+Testing CISCO 1252
+Imaging CISCO 3602
+Testing CISCO 3602
+Imaging NCR 7459 POS CONTROLLER
+Testing NCR 7459 POS CONTROLLER
+Imaging NCR 7606 POS CONTROLLER
+Testing NCR 7606 POS CONTROLLER
+Imaging POS Hard Drive
+Imaging ISP DRIVES
+Imaging 840 G1 LAPTOP
+Testing 840 G1 LAPTOP
+Imaging HP 600 G1
+Testing HP 600 G1
+Imaging DIGI SM 90
+Testing DIGI SM 90
+Imaging HP DC5800
+Testing HP DC5800
+Imaging ZEBRA QL320 PLUS BELT PRINTER
+Testing ZEBRA QL320 PLUS BELT PRINTER
+Imaging ZEBRA QLN 320 BELT PRINTER
+Testing ZEBRA QLN 320 BELT PRINTER
+Testing RADIANT W106 TIME CLOCK
+Imaging MX925 SIG CAP DEVICE
+Testing MX925 SIG CAP DEVICE
+Testing NETFRAME MPC620
+Testing MX870 SIG CAP DEVICE
+Wiping Certegy
+Imaging QLN320 BELT PRINTER
+Testing QLN320 BELT PRINTER
+Imaging CB 3000 BRIDGE
+Imaging DELL OPTIPLEX 760
+Testing DELL OPTIPLEX 760
+Testing DELL OPTIPLEX 745
+Imaging DELL OPTIPLEX 745
+Imaging CISCO 2960 SWITCH
+Wiping CISCO 2960 SWITCH
+Imaging CISCO 2950 SWITCH
+Wiping CISCO 2950 SWITCH
+Imaging CISCO 3650 SWITCH
+Wiping CISCO 3650 SWITCH
+Imaging CISCO 3750 SWITCH
+Wiping CISCO 3750 SWITCH
+Imaging CISCO 1841 ROUTER
+Wiping CISCO 1841 ROUTER
+Imaging CISCO 2911 ROUTER
+Wiping CISCO 2911 ROUTER
+Imaging CISCO 4331 ROUTER
+Wiping CISCO 4331 ROUTER
+Imaging CISCO 2821 ROUTER
+Wiping CISCO 2821 ROUTER
+Imaging CISCO 2611 ROUTER
+Wiping CISCO 2611 ROUTER
+Imaging CISCO 2960 X series SWITCH
+Wiping CISCO 2960 X series SWITCH
+Imaging HP6000
+Testing HP6000
+Imaging DELL OPTIPLEX 9020
+Testing MX915 PIN PADS
+Re-Encrypt MX915 PIN PADS
+Imaging DELL T420 ESX SERVER
+Testing DELL T420 ESX SERVER
+Imaging DELL T430 ESX SERVER
+Testing DELL T430 ESX SERVER
+Imaging DELL T710
+Testing DELL T710
+Imaging Dell PowerEdge 2900
+Testing Dell PowerEdge 2900
+Van Run
+Imaging Microtrax
+Imaging ThumbDrives SVU RX
+Imaging ThumbDrives LLC_NAI
+Imaging ThumbDrives SVU
+Imaging ThumbDrives Microtrax
+Depot ThumbDrives SVU RX
+Depot ThumbDrives LLC_NAI
+Depot ThumbDrives SVU
+Depot ThumbDrives Microtrax
+Depot with imaged pcs ThumbDrives SVU RX
+Depot with imaged pcs ThumbDrives LLC_NAI
+Depot with imaged pcs ThumbDrives SVU
+Depot with imaged pcs ThumbDrives Microtrax
+Imaging Bizerba Scales
+Testing Bizerba Scales
+Scrounge for pieces and parts
+Cleaning and Imaging Hobart Quantum
+HP DL160 G8 testing
+HP DL160 G8 imaging
+HP DL160 G9 testing
+HP DL160 G9 imaging
+HP DL160 G6 testing
+HP DL160 G6 imaging
+Symbol CB3000 imaging
+Symbol CB3000 testing 
+Imaging APC 1500
+Testing APC 1500
+Imaging DELL OPTIPLEX 7040
+Created ESX 5.5U2 cd
+Created ISP Recovery DVD
+Win7 USB ThumbDrive
+Imaging APC 1500
+Imaging Zebra Printer
+Imaging QL320 plus
+Imaging QL320N
+Imaging Cisco 3602 Acess Point
+Imaging IBM 4800-C41 POS CONTROLLER
+Testing IBM 4800-C41 POS CONTROLLER
+Imaging HP 6000 DESKTOP Workstation
+Testing HP 6000 DESKTOP Workstation
+Testing Radiant W106 Time Clock
+Cleaning Radiant W106 Time Clock
