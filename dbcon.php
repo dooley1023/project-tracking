@@ -1,5 +1,5 @@
 <?php
-$mysqli = new mysqli('localhost','root','Dus74ter','storedata');
+$mysqli = new mysqli('localhost','','','storedata');
 
 //Output any connection error
 if ($mysqli->connect_error) {
